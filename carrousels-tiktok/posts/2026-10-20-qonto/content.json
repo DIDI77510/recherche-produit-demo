@@ -1,0 +1,77 @@
+{
+  "brand": "qonto",
+  "handle": "@classpro36",
+  "slide1": {
+    "kicker": "AUTO-ENTREPRENEUR",
+    "pre": "Ton compte perso",
+    "big": "STOP.",
+    "big_size": 230,
+    "lines": [
+      "Passe au compte pro"
+    ],
+    "accent_line": "et touche une prime.",
+    "lines_size": 105,
+    "intro": "Mélanger perso et pro, c’est l’enfer à la déclaration. Voici ce que j’ai changé.",
+    "box": "Jusqu’à 160 € offerts avec un lien de parrainage",
+    "note": "Montants affichés par Qonto, sous conditions d’achats."
+  },
+  "slide2": {
+    "kicker": "POURQUOI",
+    "title1": "3 raisons",
+    "title2": "de séparer.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Compta plus simple",
+        "text": "Toutes tes recettes pro au même endroit, prêtes pour l’Urssaf."
+      },
+      {
+        "tag": "02",
+        "title": "Factures intégrées",
+        "text": "Tu crées et envoies tes factures depuis l’appli."
+      },
+      {
+        "tag": "03",
+        "title": "Image pro",
+        "text": "Un IBAN et une carte au nom de ton activité."
+      }
+    ],
+    "warn": "Au-delà de 10 000 € de CA deux années de suite, un compte dédié est obligatoire en micro-entreprise.",
+    "source": "Source : qonto.com • service-public.fr"
+  },
+  "slide3": {
+    "kicker": "LA PRIME",
+    "title1": "Comment",
+    "title2": "la débloquer.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Sans lien, pas de prime : l’inscription directe ne compte pas."
+      },
+      {
+        "t": "80 € au 1er palier",
+        "d": "50 € d’achats avec ta carte physique dans les 60 jours."
+      },
+      {
+        "t": "80 € de plus au 2e palier",
+        "d": "3 000 € d’achats dans ces mêmes 60 jours."
+      },
+      {
+        "t": "Compare les forfaits",
+        "d": "Le compte est payant : vérifie le prix avant de t’engager."
+      }
+    ],
+    "banner": "La prime tombe quand les paliers sont atteints."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Qonto ».",
+      "Ouvre ton compte pro en ligne en quelques minutes.",
+      "Active ta carte physique pour lancer les paliers."
+    ],
+    "disclaimer": "Publicité : je touche une prime si tu ouvres un compte via mon lien. Vérifie l’offre en cours et les tarifs sur qonto.com."
+  },
+  "caption": "Auto-entrepreneur : arrête de tout mélanger sur ton compte perso 👇 Jusqu’à 160 € offerts avec le parrainage Qonto. Lien en bio. #publicité #autoentrepreneur #microentreprise #qonto #parrainage",
+  "title": "Compte perso ou compte pro ? 💼"
+}

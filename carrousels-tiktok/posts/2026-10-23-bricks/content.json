@@ -1,0 +1,78 @@
+{
+  "brand": "bricks",
+  "handle": "@classpro36",
+  "accent": "#5FB8F0",
+  "slide1": {
+    "kicker": "IMMOBILIER EN LIGNE",
+    "pre": "Avant Bricks",
+    "big": "4 ERREURS",
+    "big_size": 190,
+    "lines": [
+      "à ne pas faire"
+    ],
+    "accent_line": "quand tu débutes.",
+    "lines_size": 100,
+    "intro": "Investir dans l’immobilier depuis ton téléphone, c’est tentant. Voici les pièges à éviter.",
+    "box": "Bonus : 1 % de tes versements pendant 3 mois",
+    "note": "Via un lien de parrainage. Conditions dans les CGU Bricks."
+  },
+  "slide2": {
+    "kicker": "LES PIÈGES",
+    "title1": "Les erreurs",
+    "title2": "1, 2 et 3.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Placer ton épargne de secours",
+        "text": "L’argent est bloqué le temps du projet et peut être difficile à revendre."
+      },
+      {
+        "tag": "02",
+        "title": "Tout mettre sur un projet",
+        "text": "Si l’emprunteur ne rembourse pas, tu peux perdre tout ce que tu y as mis."
+      },
+      {
+        "tag": "03",
+        "title": "Croire que c’est garanti",
+        "text": "Pas de garantie des dépôts : le rendement dépend de la réussite du projet."
+      }
+    ],
+    "warn": "Risque de perte en capital. N’investis que ce que tu peux perdre.",
+    "source": "Source : CGU bricks.co"
+  },
+  "slide3": {
+    "kicker": "ERREUR N° 4",
+    "title1": "Rater",
+    "title2": "le bonus.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Un compte créé sans lien ne donne pas droit au bonus."
+      },
+      {
+        "t": "1 % de ce que tu investis",
+        "d": "Sur tes versements des 3 mois suivant ton inscription."
+      },
+      {
+        "t": "Plafond : 1 500 € par an",
+        "d": "Le bonus est versé en euros sur ton portefeuille Bricks."
+      },
+      {
+        "t": "Il est imposable",
+        "d": "Dès le premier euro : pense à le déclarer."
+      }
+    ],
+    "banner": "Ceci n’est pas un conseil en investissement."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Bricks ».",
+      "Crée ton compte et vérifie ton identité.",
+      "Commence petit et répartis sur plusieurs projets."
+    ],
+    "disclaimer": "Publicité : je touche un bonus si tu t’inscris et investis via mon lien. Risque de perte en capital et argent immobilisé. Ceci n’est pas un conseil en investissement."
+  },
+  "caption": "4 erreurs à éviter avant d’investir sur Bricks 👇 Bonus de 1 % sur tes versements pendant 3 mois avec un lien de parrainage (plafonné, imposable). Risque de perte en capital, argent immobilisé. Ceci n’est pas un conseil en investissement. Lien en bio. #publicité #bricks #immobilier #investir #parrainage",
+  "title": "4 erreurs à éviter sur Bricks 🧱"
+}

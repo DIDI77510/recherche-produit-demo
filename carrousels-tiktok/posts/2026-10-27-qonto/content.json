@@ -1,0 +1,77 @@
+{
+  "brand": "qonto",
+  "handle": "@classpro36",
+  "slide1": {
+    "kicker": "FACTURE ÉLECTRONIQUE",
+    "pre": "Micro-entrepreneur",
+    "big": "2027",
+    "big_size": 230,
+    "lines": [
+      "Tes factures PDF"
+    ],
+    "accent_line": "c’est bientôt fini.",
+    "lines_size": 100,
+    "intro": "La réforme est lancée. Voici ce qui change pour toi, et comment t’y préparer.",
+    "box": "Jusqu’à 160 € offerts avec un lien de parrainage",
+    "note": "Montants affichés par Qonto, sous conditions d’achats."
+  },
+  "slide2": {
+    "kicker": "LA RÉFORME",
+    "title1": "Les dates",
+    "title2": "à retenir.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Sept. 2026 : recevoir",
+        "text": "Toutes les entreprises doivent pouvoir recevoir des factures électroniques."
+      },
+      {
+        "tag": "02",
+        "title": "Sept. 2027 : émettre",
+        "text": "Les PME et micro-entreprises devront aussi les envoyer au format électronique."
+      },
+      {
+        "tag": "03",
+        "title": "Via une plateforme agréée",
+        "text": "Les factures passent par une plateforme agréée (PA). Qonto en est une."
+      }
+    ],
+    "warn": "Un PDF envoyé par e-mail ne sera plus une facture électronique au sens de la réforme.",
+    "source": "Source : qonto.com"
+  },
+  "slide3": {
+    "kicker": "LA PRIME",
+    "title1": "Compte pro",
+    "title2": "+ prime.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Sans lien, pas de prime : l’inscription directe ne compte pas."
+      },
+      {
+        "t": "80 € au 1er palier",
+        "d": "50 € d’achats avec ta carte physique dans les 60 jours."
+      },
+      {
+        "t": "80 € de plus au 2e palier",
+        "d": "3 000 € d’achats dans ces mêmes 60 jours."
+      },
+      {
+        "t": "Devis, factures, relances",
+        "d": "Inclus dans le compte pro, à partir de 9 €/mois HT."
+      }
+    ],
+    "banner": "La prime tombe quand les paliers sont atteints."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Qonto ».",
+      "Ouvre ton compte pro en ligne en quelques minutes.",
+      "Crée ta première facture et active ta carte physique."
+    ],
+    "disclaimer": "Publicité : je touche une prime si tu ouvres un compte via mon lien. Vérifie l’offre en cours et les tarifs sur qonto.com."
+  },
+  "caption": "Facture électronique : ce qui change pour les freelances et micro-entrepreneurs 👇 Réception obligatoire depuis sept. 2026, émission en sept. 2027. Qonto est plateforme agréée, et jusqu’à 160 € offerts avec le parrainage (sous conditions). Lien en bio. #publicité #factureelectronique #autoentrepreneur #freelance #qonto #parrainage",
+  "title": "Facture électronique : es-tu prêt ? 🧾"
+}

@@ -1,6 +1,6 @@
 # Pipeline Shorts "Renaissance Amoureuse" (workbench Composio)
 import os, json, subprocess, re, sys, requests
-BASE = '/mnt/files/shorts'
+BASE = '/home/user/shorts'
 VOICE = '7hvlKIUQMQekYdn00slv'          # voix "Couple" (ElevenLabs de BIB)
 EL_ACCOUNT = 'elevenlabs_mash-orgeat'
 CHANNEL = 'UCDEVWt4Cv_HUtdixoNDr9PA'

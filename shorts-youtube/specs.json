@@ -1,38 +1,150 @@
 {
- "3": {"date": "2026-10-27",
+ "3": {
+  "date": "2026-10-27",
   "title": "La phrase qui transforme une dispute en discussion #couple #communication",
   "hook": "« Tu ne m'aides jamais » = dispute garantie",
   "lead": "« Tu ne m'aides jamais » : la phrase qui déclenche la dispute. Essayez plutôt de parler de votre besoin, avec la phrase en « je ».",
-  "clips": ["30428233/13040327_1080_1920_30fps.mp4","6189267/6189267-hd_1080_1920_25fps.mp4","8060567/8060567-hd_1080_2048_25fps.mp4","5909062/5909062-hd_1080_1920_24fps.mp4","7719791/7719791-hd_1080_1920_25fps.mp4"],
-  "chunks": ["« Tu ne m'aides jamais. »", "« Tu oublies toujours. »", "Ces phrases commencent par « tu ».", "Et quand on entend « tu », on se défend.", "La dispute est déjà là.", "Essayez plutôt cette phrase :", "« Quand il se passe ceci, je me sens comme ça, et j'aurais besoin de cela. »", "Par exemple : « Quand je fais la vaisselle seule après le dîner,", "je me sens débordée, et j'aurais besoin qu'on la fasse ensemble. »", "Vous ne parlez plus de ses défauts, vous parlez de votre besoin.", "Et un besoin, ça s'écoute bien plus facilement qu'un reproche."]},
- "4": {"date": "2026-10-29",
+  "clips": [
+   "30428233/13040327_1080_1920_30fps.mp4",
+   "6189267/6189267-hd_1080_1920_25fps.mp4",
+   "8060567/8060567-hd_1080_2048_25fps.mp4",
+   "5909062/5909062-hd_1080_1920_24fps.mp4",
+   "7719791/7719791-hd_1080_1920_25fps.mp4"
+  ],
+  "chunks": [
+   "« Tu ne m'aides jamais. »",
+   "« Tu oublies toujours. »",
+   "Ces phrases commencent par « tu ».",
+   "Et quand on entend « tu », on se défend.",
+   "La dispute est déjà là.",
+   "Essayez plutôt cette phrase :",
+   "« Quand il se passe ceci, je me sens comme ça, et j'aurais besoin de cela. »",
+   "Par exemple : « Quand je fais la vaisselle seule après le dîner,",
+   "je me sens débordée, et j'aurais besoin qu'on la fasse ensemble. »",
+   "Vous ne parlez plus de ses défauts, vous parlez de votre besoin.",
+   "Et un besoin, ça s'écoute bien plus facilement qu'un reproche."
+  ],
+  "status": "programmé sur YouTube (85tkWw0jJoA) pour le 27/10 18:00"
+ },
+ "4": {
+  "date": "2026-10-29",
   "title": "L'astuce des couples qui ne se disputent plus pendant des heures #couple",
   "hook": "Votre mot code, c'est quoi ?",
   "lead": "Quand le ton monte, le cerveau n'écoute plus. L'astuce : un mot code pour faire une pause de 20 minutes, puis reprendre au calme.",
-  "clips": ["8557568/8557568-hd_1080_1920_24fps.mp4","40347585/17239730_1080_1920_60fps.mp4","9902176/9902176-hd_1080_2048_25fps.mp4","6380998/6380998-hd_1080_1920_24fps.mp4","8060570/8060570-hd_1080_2048_25fps.mp4"],
-  "chunks": ["Quand le ton monte, le cerveau n'écoute plus.", "On ne cherche plus à comprendre, on cherche à gagner.", "Alors voici l'astuce : choisissez ensemble un mot code.", "« Pause », « ananas », ce que vous voulez.", "Quand l'un de vous le dit, vous arrêtez tout pendant vingt minutes.", "Chacun dans une pièce, pour souffler.", "Et c'est celui qui a dit le mot qui revient pour reprendre la discussion, au calme.", "Ce n'est pas fuir le problème.", "C'est se donner une chance d'en parler sans se blesser.", "Dites-moi en commentaire quel serait votre mot code."]},
- "5": {"date": "2026-10-31",
+  "clips": [
+   "8557568/8557568-hd_1080_1920_24fps.mp4",
+   "40347585/17239730_1080_1920_60fps.mp4",
+   "9902176/9902176-hd_1080_2048_25fps.mp4",
+   "6380998/6380998-hd_1080_1920_24fps.mp4",
+   "8060570/8060570-hd_1080_2048_25fps.mp4"
+  ],
+  "chunks": [
+   "Quand le ton monte, le cerveau n'écoute plus.",
+   "On ne cherche plus à comprendre, on cherche à gagner.",
+   "Alors voici l'astuce : choisissez ensemble un mot code.",
+   "« Pause », « ananas », ce que vous voulez.",
+   "Quand l'un de vous le dit, vous arrêtez tout pendant vingt minutes.",
+   "Chacun dans une pièce, pour souffler.",
+   "Et c'est celui qui a dit le mot qui revient pour reprendre la discussion, au calme.",
+   "Ce n'est pas fuir le problème.",
+   "C'est se donner une chance d'en parler sans se blesser.",
+   "Dites-moi en commentaire quel serait votre mot code."
+  ],
+  "status": "brouillon envoyé sur YouTube le 26/10 (1PeoksX07tM), à programmer le 29/10 18:00"
+ },
+ "5": {
+  "date": "2026-10-31",
   "title": "Votre partenaire ne devinera jamais (faites plutôt ça) #couple #conseilcouple",
   "hook": "Il ou elle devrait comprendre tout seul… vraiment ?",
   "lead": "On attend souvent que l'autre devine ce dont on a besoin. Cette semaine, faites une demande claire, précise et possible.",
-  "clips": ["6781976/6781976-hd_1080_1920_30fps.mp4","8035633/8035633-hd_1080_2048_25fps.mp4","40120426/17130031_1080_1920_30fps.mp4","6693870/6693870-hd_1080_2048_30fps.mp4","6391729/6391729-hd_1080_1920_24fps.mp4"],
-  "chunks": ["« Il devrait le savoir. » « Elle devrait comprendre toute seule. »", "On attend souvent que l'autre devine ce dont on a besoin.", "Et quand il ne devine pas, on lui en veut.", "Mais personne ne lit dans les pensées. Même après quinze ans de vie commune.", "Alors cette semaine, faites une demande claire, précise et possible.", "Par exemple : « Mercredi soir, est-ce que tu peux coucher les enfants pour que je souffle une heure ? »", "L'autre peut dire oui, non, ou proposer autre chose.", "Mais au moins, il sait.", "Une demande claire évite dix reproches."]},
- "6": {"date": "2026-11-02",
+  "clips": [
+   "6781976/6781976-hd_1080_1920_30fps.mp4",
+   "8035633/8035633-hd_1080_2048_25fps.mp4",
+   "40120426/17130031_1080_1920_30fps.mp4",
+   "6693870/6693870-hd_1080_2048_30fps.mp4",
+   "6391729/6391729-hd_1080_1920_24fps.mp4"
+  ],
+  "chunks": [
+   "« Il devrait le savoir. » « Elle devrait comprendre toute seule. »",
+   "On attend souvent que l'autre devine ce dont on a besoin.",
+   "Et quand il ne devine pas, on lui en veut.",
+   "Mais personne ne lit dans les pensées. Même après quinze ans de vie commune.",
+   "Alors cette semaine, faites une demande claire, précise et possible.",
+   "Par exemple : « Mercredi soir, est-ce que tu peux coucher les enfants pour que je souffle une heure ? »",
+   "L'autre peut dire oui, non, ou proposer autre chose.",
+   "Mais au moins, il sait.",
+   "Une demande claire évite dix reproches."
+  ]
+ },
+ "6": {
+  "date": "2026-11-02",
   "title": "Le jeu de couple qui ravive la séduction #couple #jeuxdecouple",
   "hook": "Et si vous vous rencontriez… une deuxième fois ?",
   "lead": "Une mission pour retrouver le trac et l'envie de plaire du premier rendez-vous : faites comme si vous ne vous connaissiez pas.",
-  "clips": ["3188950/3188950-hd_1080_1920_25fps.mp4","13737099/13737099-hd_1080_1920_24fps.mp4","4694585/4694585-hd_1080_2048_25fps.mp4","32197844/13731573_1080_1920_30fps.mp4","34841453/14769316_1080_1920_30fps.mp4"],
-  "chunks": ["Vous vous souvenez de votre première rencontre ?", "Le trac, les regards, l'envie de plaire ?", "Voici une mission pour retrouver ça.", "Donnez-vous rendez-vous dans un bar ou un café, mais arrivez séparément.", "Et faites comme si vous ne vous connaissiez pas.", "Présentez-vous, posez des questions, séduisez-vous comme au premier jour.", "Au début, vous allez rire.", "Puis, petit à petit, vous allez vous regarder autrement."]},
- "7": {"date": "2026-11-04",
+  "clips": [
+   "3188950/3188950-hd_1080_1920_25fps.mp4",
+   "13737099/13737099-hd_1080_1920_24fps.mp4",
+   "4694585/4694585-hd_1080_2048_25fps.mp4",
+   "32197844/13731573_1080_1920_30fps.mp4",
+   "34841453/14769316_1080_1920_30fps.mp4"
+  ],
+  "chunks": [
+   "Vous vous souvenez de votre première rencontre ?",
+   "Le trac, les regards, l'envie de plaire ?",
+   "Voici une mission pour retrouver ça.",
+   "Donnez-vous rendez-vous dans un bar ou un café, mais arrivez séparément.",
+   "Et faites comme si vous ne vous connaissiez pas.",
+   "Présentez-vous, posez des questions, séduisez-vous comme au premier jour.",
+   "Au début, vous allez rire.",
+   "Puis, petit à petit, vous allez vous regarder autrement."
+  ]
+ },
+ "7": {
+  "date": "2026-11-04",
   "title": "5 surprises gratuites pour faire plaisir à votre partenaire #couple #idee",
   "hook": "Faire plaisir, ça coûte 0 €.",
   "lead": "Faire une surprise, ce n'est pas une question d'argent : c'est la preuve que vous pensez à l'autre. 5 idées à zéro euro.",
-  "clips": ["12691875/12691875-hd_1080_1920_60fps.mp4","3832194/3832194-hd_1080_2048_25fps.mp4","7707054/7707054-hd_1080_2048_25fps.mp4","5607537/5607537-hd_1080_1920_24fps.mp4","6534946/6534946-hd_1080_1920_24fps.mp4"],
-  "chunks": ["Faire une surprise à l'autre, ce n'est pas une question d'argent.", "C'est la preuve que vous pensez à lui.", "Voici cinq idées à zéro euro.", "Un : cuisiner son plat préféré un soir de semaine.", "Deux : cacher un petit mot dans sa poche ou son sac.", "Trois : lui préparer une playlist de vos chansons.", "Quatre : lui faire couler un bain, avec des bougies.", "Cinq : lui envoyer, en pleine journée, un souvenir de vous deux.", "Choisissez-en une pour cette semaine."]},
- "8": {"date": "2026-11-06",
+  "clips": [
+   "12691875/12691875-hd_1080_1920_60fps.mp4",
+   "3832194/3832194-hd_1080_2048_25fps.mp4",
+   "7707054/7707054-hd_1080_2048_25fps.mp4",
+   "5607537/5607537-hd_1080_1920_24fps.mp4",
+   "6534946/6534946-hd_1080_1920_24fps.mp4"
+  ],
+  "chunks": [
+   "Faire une surprise à l'autre, ce n'est pas une question d'argent.",
+   "C'est la preuve que vous pensez à lui.",
+   "Voici cinq idées à zéro euro.",
+   "Un : cuisiner son plat préféré un soir de semaine.",
+   "Deux : cacher un petit mot dans sa poche ou son sac.",
+   "Trois : lui préparer une playlist de vos chansons.",
+   "Quatre : lui faire couler un bain, avec des bougies.",
+   "Cinq : lui envoyer, en pleine journée, un souvenir de vous deux.",
+   "Choisissez-en une pour cette semaine."
+  ]
+ },
+ "8": {
+  "date": "2026-11-06",
   "title": "Une soirée en amoureux sans sortir de chez soi #couple #rendezvous",
   "hook": "Pas de baby-sitter ? Pas de problème.",
   "lead": "Pas de baby-sitter, pas de budget ? Un pique-nique d'intérieur, des bougies, et la routine est cassée.",
-  "clips": ["6575887/6575887-hd_1080_1920_24fps.mp4","31960022/13617890_1080_1920_30fps.mp4","5045654/5045654-hd_1080_1920_25fps.mp4","39587335/16873504_1080_1920_30fps.mp4","6617107/6617107-hd_1080_1920_25fps.mp4"],
-  "chunks": ["Pas de baby-sitter, pas de budget, il fait froid dehors…", "Vous pouvez quand même avoir un vrai rendez-vous ce soir.", "Une fois les enfants couchés, posez une nappe au milieu du salon.", "Allumez quelques bougies.", "Sortez des petites choses à grignoter : fromage, fruits, chocolat.", "Téléphones dans une autre pièce, musique douce,", "et vous voilà en pique-nique au chaud.", "Ce qui compte, ce n'est pas le lieu.", "C'est de casser la routine, ensemble."]}
+  "clips": [
+   "6575887/6575887-hd_1080_1920_24fps.mp4",
+   "31960022/13617890_1080_1920_30fps.mp4",
+   "5045654/5045654-hd_1080_1920_25fps.mp4",
+   "39587335/16873504_1080_1920_30fps.mp4",
+   "6617107/6617107-hd_1080_1920_25fps.mp4"
+  ],
+  "chunks": [
+   "Pas de baby-sitter, pas de budget, il fait froid dehors…",
+   "Vous pouvez quand même avoir un vrai rendez-vous ce soir.",
+   "Une fois les enfants couchés, posez une nappe au milieu du salon.",
+   "Allumez quelques bougies.",
+   "Sortez des petites choses à grignoter : fromage, fruits, chocolat.",
+   "Téléphones dans une autre pièce, musique douce,",
+   "et vous voilà en pique-nique au chaud.",
+   "Ce qui compte, ce n'est pas le lieu.",
+   "C'est de casser la routine, ensemble."
+  ]
+ }
 }

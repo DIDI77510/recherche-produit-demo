@@ -1,0 +1,77 @@
+{
+  "brand": "qonto",
+  "handle": "@classpro36",
+  "slide1": {
+    "kicker": "CRÉATION DE SOCIÉTÉ",
+    "pre": "Tu crées ta SASU ?",
+    "big": "1 €",
+    "big_size": 200,
+    "lines": [
+      "Ton dépôt de capital"
+    ],
+    "accent_line": "100 % en ligne.",
+    "lines_size": 100,
+    "intro": "Pas besoin de rendez-vous en agence. Voici les 3 étapes, du compte à l’immatriculation.",
+    "box": "Jusqu’à 160 € offerts avec un lien de parrainage",
+    "note": "Montants affichés par Qonto, sous conditions d’achats."
+  },
+  "slide2": {
+    "kicker": "LES ÉTAPES",
+    "title1": "Le dépôt",
+    "title2": "de capital.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Ouvre le compte",
+        "text": "Infos de la société, statuts et justificatif de siège : environ 10 min."
+      },
+      {
+        "tag": "02",
+        "title": "Vire le capital",
+        "text": "Chaque associé vire sa part. Le certificat arrive par e-mail sous 12 h ouvrées."
+      },
+      {
+        "tag": "03",
+        "title": "Immatricule-toi",
+        "text": "Sur le Guichet unique, puis envoie le justificatif : le capital est débloqué."
+      }
+    ],
+    "warn": "Service à 69 €, en plus d’un abonnement Qonto. Pour SAS, SASU, SARL, EURL et d’autres formes.",
+    "source": "Source : qonto.com"
+  },
+  "slide3": {
+    "kicker": "LA PRIME",
+    "title1": "Compte pro",
+    "title2": "+ prime.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Sans lien, pas de prime : l’inscription directe ne compte pas."
+      },
+      {
+        "t": "80 € au 1er palier",
+        "d": "50 € d’achats avec ta carte physique dans les 60 jours."
+      },
+      {
+        "t": "80 € de plus au 2e palier",
+        "d": "3 000 € d’achats dans ces mêmes 60 jours."
+      },
+      {
+        "t": "Compare les forfaits",
+        "d": "Le compte est payant : vérifie le prix avant de t’engager."
+      }
+    ],
+    "banner": "La prime tombe quand les paliers sont atteints."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Qonto ».",
+      "Ouvre ton compte et lance ton dépôt de capital en ligne.",
+      "Active ta carte physique pour lancer les paliers."
+    ],
+    "disclaimer": "Publicité : je touche une prime si tu ouvres un compte via mon lien. Vérifie l’offre en cours et les tarifs sur qonto.com."
+  },
+  "caption": "Tu crées ta SASU, SAS ou SARL ? Ton dépôt de capital peut se faire 100 % en ligne 👇 Dès 1 €, certificat par e-mail sous 12 h ouvrées (service à 69 € + abonnement). Et jusqu’à 160 € offerts avec le parrainage Qonto (sous conditions). Lien en bio. #publicité #creationentreprise #sasu #entrepreneur #qonto #parrainage",
+  "title": "Créer sa société : le dépôt de capital 🏢"
+}

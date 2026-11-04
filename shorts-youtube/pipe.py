@@ -163,7 +163,7 @@ def publish(k, run_composio_tool, upload_local_file, proxy_execute):
         return {'ok': False, 'step': 'youtube_upload', 'error': str(e)[:400], 'video_url_for_manual_upload': s3url,
                 'title': sp['title'], 'description': desc}
     data = r.get('data', r)
-    vid = data.get('id') or (data.get('response_data') or {}).get('id') or (data.get('data') or {}).get('id')
+    vid = data.get('id') or (data.get('video') or {}).get('id') or (data.get('response_data') or {}).get('id') or (data.get('data') or {}).get('id')
     res = {'ok': True, 'video_id': vid, 'url': f'https://youtube.com/shorts/{vid}'}
     body = {'id': vid, 'snippet': {'title': sp['title'], 'description': desc, 'categoryId': '22', 'tags': TAGS,
                                    'defaultLanguage': 'fr', 'defaultAudioLanguage': 'fr-FR'}}
@@ -172,7 +172,8 @@ def publish(k, run_composio_tool, upload_local_file, proxy_execute):
     if e2:
         res['language_error'] = str(e2)[:200]
     r3, e3 = proxy_execute('PUT', 'https://www.googleapis.com/youtube/v3/videos', 'youtube', query_params={'part': 'status'},
-                           body={'id': vid, 'status': {'privacyStatus': 'public', 'selfDeclaredMadeForKids': False}})
+                           body={'id': vid, 'status': {'privacyStatus': 'public', 'selfDeclaredMadeForKids': False,
+                                                         'embeddable': True, 'publicStatsViewable': True, 'license': 'youtube'}})
     res['kids_set'] = not e3
     json.dump({'last_published': k, 'video_id': vid}, open(f'{BASE}/state.json', 'w'))
     return res

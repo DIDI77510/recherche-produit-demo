@@ -1,0 +1,78 @@
+{
+  "brand": "bricks",
+  "handle": "@classpro36",
+  "accent": "#5FB8F0",
+  "slide1": {
+    "kicker": "IMMOBILIER EN LIGNE",
+    "pre": "Bricks :",
+    "big": "COMMENT",
+    "big_size": 200,
+    "lines": [
+      "ça marche"
+    ],
+    "accent_line": "vraiment ?",
+    "lines_size": 100,
+    "intro": "Tu vois passer Bricks partout. On décortique le fonctionnement en 3 étapes, sans jargon.",
+    "box": "Bonus : 1 % de tes versements pendant 3 mois",
+    "note": "Via un lien de parrainage. Conditions dans les CGU Bricks."
+  },
+  "slide2": {
+    "kicker": "LE PRINCIPE",
+    "title1": "Tu prêtes,",
+    "title2": "pas proprio.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Un projet immobilier",
+        "text": "Un promoteur ou porteur de projet cherche à financer une opération."
+      },
+      {
+        "tag": "02",
+        "title": "Tu finances une part",
+        "text": "Tu achètes des « bricks » : des titres, souvent des obligations du porteur."
+      },
+      {
+        "tag": "03",
+        "title": "Il rembourse + intérêts",
+        "text": "À la fin du projet, si tout se passe bien. Ton gain dépend de sa réussite."
+      }
+    ],
+    "warn": "Bricks est agréé PSFP par l’AMF, mais pas de garantie des dépôts.",
+    "source": "Source : CGU bricks.co (sept. 2026)"
+  },
+  "slide3": {
+    "kicker": "À SAVOIR AVANT",
+    "title1": "Les règles",
+    "title2": "du jeu.",
+    "items": [
+      {
+        "t": "Ton argent est immobilisé",
+        "d": "Pendant la durée du projet, et les titres peuvent être difficiles à revendre."
+      },
+      {
+        "t": "Tu peux perdre de l’argent",
+        "d": "En partie ou en totalité si le porteur ne rembourse pas."
+      },
+      {
+        "t": "Bonus parrainage : 1 %",
+        "d": "Sur ce que tu investis les 3 premiers mois, plafonné à 1 500 € par an."
+      },
+      {
+        "t": "Le bonus est imposable",
+        "d": "Dès le premier euro : pense à le déclarer."
+      }
+    ],
+    "banner": "Ceci n’est pas un conseil en investissement."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Bricks ».",
+      "Crée ton compte et vérifie ton identité.",
+      "Lis la fiche de chaque projet avant d’investir."
+    ],
+    "disclaimer": "Publicité : je touche un bonus si tu t’inscris et investis via mon lien. Risque de perte en capital et argent immobilisé. Ceci n’est pas un conseil en investissement."
+  },
+  "caption": "Bricks, comment ça marche vraiment ? 👇 Tu prêtes à des projets immobiliers, tu ne deviens pas propriétaire. Bonus de 1 % sur tes versements des 3 premiers mois avec un lien de parrainage (plafonné à 1 500 €/an, imposable). Risque de perte en capital, argent immobilisé. Ceci n’est pas un conseil en investissement. Lien en bio. #publicité #bricks #immobilier #investir #parrainage",
+  "title": "Bricks : comment ça marche ? 🧱"
+}

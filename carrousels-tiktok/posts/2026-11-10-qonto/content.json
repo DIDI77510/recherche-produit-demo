@@ -1,0 +1,77 @@
+{
+  "brand": "qonto",
+  "handle": "@classpro36",
+  "slide1": {
+    "kicker": "PARRAINAGE QONTO",
+    "pre": "Ta prime de",
+    "big": "160 €",
+    "big_size": 220,
+    "lines": [
+      "Ne la rate pas"
+    ],
+    "accent_line": "pour rien.",
+    "lines_size": 100,
+    "intro": "Ouvrir le compte ne suffit pas. Voici les pièges qui bloquent la prime.",
+    "box": "Jusqu’à 160 € offerts avec un lien de parrainage",
+    "note": "Selon les conditions de l’offre de parrainage Qonto."
+  },
+  "slide2": {
+    "kicker": "LES PIÈGES",
+    "title1": "3 erreurs",
+    "title2": "qui ruinent.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Pas de carte physique",
+        "text": "Il faut commander une carte physique : seuls ses paiements comptent."
+      },
+      {
+        "tag": "02",
+        "title": "Les mauvais achats",
+        "text": "Retraits, restaurants, bars, tabac et jeux d’argent ne comptent pas."
+      },
+      {
+        "tag": "03",
+        "title": "Laisser filer 60 jours",
+        "text": "Les paliers se jouent dans les 60 jours après la validation du compte."
+      }
+    ],
+    "warn": "La 1re échéance d’abonnement doit aussi être réglée pour débloquer la prime.",
+    "source": "Source : CGU de l’offre de parrainage Qonto"
+  },
+  "slide3": {
+    "kicker": "LA PRIME",
+    "title1": "Compte pro",
+    "title2": "+ prime.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Sans lien, pas de prime : l’inscription directe ne compte pas."
+      },
+      {
+        "t": "80 € au 1er palier",
+        "d": "Au moins 50 € d’achats éligibles avec ta carte physique en 60 jours."
+      },
+      {
+        "t": "80 € de plus au 2e palier",
+        "d": "Plus de 3 000 € d’achats éligibles avec la carte physique en 60 jours."
+      },
+      {
+        "t": "Compare les forfaits",
+        "d": "Le compte est payant : vérifie le prix avant de t’engager."
+      }
+    ],
+    "banner": "Prime versée sous 7 jours ouvrés après les paliers."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Qonto ».",
+      "Ouvre ton compte pro et commande ta carte physique.",
+      "Paie tes achats pro avec elle dans les 60 jours."
+    ],
+    "disclaimer": "Publicité : je touche une prime si tu ouvres un compte via mon lien. Vérifie l’offre en cours et les tarifs sur qonto.com."
+  },
+  "caption": "Parrainage Qonto : 3 erreurs qui te font rater ta prime 👇 Carte physique obligatoire, certains achats exclus (retraits, restos, bars, tabac, jeux) et seulement 60 jours pour atteindre les paliers. Jusqu’à 160 € offerts avec le parrainage (sous conditions). Lien en bio. #publicité #qonto #parrainage #autoentrepreneur #freelance #compteprofessionnel",
+  "title": "Prime Qonto : les 3 pièges à éviter ⚠️"
+}

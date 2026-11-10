@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Ta laisse est trop courte ?",
+  "slides": [
+    {"type": "hook", "photo": "laisse-chien-terrasse.jpg", "pos": "50% center", "kicker": "PROMENADE", "lines": ["Ta laisse", "est trop"], "accent_line": "courte ?", "sub": "Ton chien veut renifler partout et tu as le bras tendu toute la balade."},
+    {"type": "benefit", "photo": "laisse-promenade-rue.jpg", "fit": "cover", "kicker": "01 · 5 MÈTRES", "title": "Plus de liberté", "text": "5 m de corde : ton chien explore, tu gardes la laisse en main."},
+    {"type": "benefit", "photo": "laisse-poignee-mousse.jpg", "kicker": "02 · CONFORT", "title": "Poignée en mousse", "text": "Plus agréable pour ta main quand ton chien tire."},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "03 · PRATIQUE", "title": "Sacs + réfléchissante", "text": "Distributeur de sacs accroché à la laisse, et des fils qui brillent dans les phares la nuit."},
+    {"type": "price", "photo": "laisse-boite.jpg", "name": "Laisse réfléchissante 5 m", "detail": "Avec distributeur de sacs à crottes", "price": "14,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

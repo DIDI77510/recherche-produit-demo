@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Kit Promenade de Nuit (collier LED + laisse réfléchissante 5 m)",
+  "title": "Les voitures le voient, ton chien ?",
+  "slides": [
+    {"type": "hook", "photo": "collier-bleu-chien-nuit.jpg", "pos": "45% center", "kicker": "TRAVERSER LE SOIR", "lines": ["Les voitures", "le voient,"], "accent_line": "ton chien ?", "sub": "Rue mal éclairée, pelage sombre : un conducteur risque de le voir trop tard."},
+    {"type": "benefit", "photo": "collier-bleu-chien-allume.jpg", "kicker": "01 · DEVANT", "title": "Le collier s'allume", "text": "Une lumière autour du cou : ton chien se voit mieux dans le noir."},
+    {"type": "benefit", "photo": "laisse-promenade-rue.jpg", "fit": "cover", "kicker": "02 · LA LAISSE AUSSI", "title": "Réfléchissante", "text": "Ses fils renvoient la lumière des phares. Et 5 m de longueur pour la balade."},
+    {"type": "benefit", "photo": "kit-rouge.jpg", "kicker": "03 · TOUT EN UN", "title": "Un seul kit", "text": "Collier LED + laisse 5 m avec distributeur de sacs. Rouge ou bleu."},
+    {"type": "price", "photo": "kit-bleu.jpg", "name": "Kit Promenade de Nuit", "detail": "Collier LED + laisse 5 m · rouge ou bleu", "price": "21,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

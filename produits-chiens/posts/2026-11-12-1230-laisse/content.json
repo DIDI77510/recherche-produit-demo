@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Ta laisse se voit la nuit ?",
+  "slides": [
+    {"type": "hook", "photo": "laisse-promenade-rue.jpg", "pos": "60% center", "kicker": "SORTIE DU SOIR", "lines": ["Ta laisse", "se voit"], "accent_line": "la nuit ?", "sub": "Une laisse noire dans une rue sombre, on la remarque à peine."},
+    {"type": "benefit", "photo": "laisse-boite.jpg", "kicker": "01 · RÉFLÉCHISSANTE", "title": "Elle renvoie la lumière", "text": "Les fils réfléchissants brillent dans les phares et les lampes torches."},
+    {"type": "benefit", "photo": "laisse-chien-terrasse.jpg", "fit": "cover", "kicker": "02 · 5 MÈTRES", "title": "Il garde sa liberté", "text": "5 m de corde pour renifler tranquille, sans lâcher la main."},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "03 · EN BONUS", "title": "Les sacs sont dessus", "text": "Le distributeur s'accroche à la laisse : plus de sac oublié."},
+    {"type": "price", "photo": "laisse-distributeur.jpg", "name": "Laisse réfléchissante 5 m", "detail": "Avec distributeur de sacs", "price": "14,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

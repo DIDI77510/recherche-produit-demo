@@ -1,0 +1,50 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Les mains pleines à chaque balade ?",
+  "slides": [
+    {
+      "type": "hook",
+      "photo": "laisse-chien-terrasse.jpg",
+      "pos": "50% center",
+      "kicker": "LA BALADE DU WEEK-END",
+      "lines": [
+        "Les mains",
+        "pleines"
+      ],
+      "accent_line": "en balade ?",
+      "sub": "Laisse, sacs, clés… et ton chien qui tire pendant que tu cherches un sac."
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-distributeur.jpg",
+      "kicker": "01 · TOUT EN UN",
+      "title": "Les sacs sont sur la laisse",
+      "text": "Le distributeur est accroché à la poignée. Une main libre en plus."
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-poignee-mousse.jpg",
+      "kicker": "02 · CONFORT",
+      "title": "Poignée en mousse",
+      "text": "Elle se tient bien en main pendant toute la promenade."
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-promenade-rue.jpg",
+      "fit": "cover",
+      "kicker": "03 · 5 MÈTRES",
+      "title": "Et réfléchissante",
+      "text": "5 m pour qu'il renifle tranquille, et elle brille dans les phares le soir."
+    },
+    {
+      "type": "price",
+      "photo": "laisse-boite.jpg",
+      "name": "Laisse réfléchissante 5 m",
+      "detail": "Avec distributeur de sacs",
+      "price": "14,99 €",
+      "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"
+    }
+  ]
+}

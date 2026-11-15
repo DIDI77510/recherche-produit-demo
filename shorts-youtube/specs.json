@@ -152,9 +152,9 @@
   "status": "publié le 06/11 (mCU0ikVJ4AY)"
  },
  "9": {
-  "date": "2026-11-08",
-  "title": "La question à poser à votre partenaire ce soir #couple #communication",
-  "hook": "« Ça a été ta journée ? » ne suffit plus.",
+  "date": "2026-11-16",
+  "title": "La question de 10 secondes qui relance votre couple #couple #communication",
+  "hook": "« Ça a été ta journée ? » ne suffit plus",
   "lead": "« Ça a été ta journée ? » ne lance jamais une vraie conversation. Ce soir, posez une vraie question, et écoutez la réponse jusqu'au bout.",
   "clips": [
    "6575887/6575887-hd_1080_1920_24fps.mp4",
@@ -166,15 +166,13 @@
   "chunks": [
    "« Ça a été, ta journée ? » « Oui, et toi ? »",
    "Et la conversation s'arrête là.",
-   "Ce soir, essayez une vraie question.",
-   "Par exemple : « Qu'est-ce qui t'a fait sourire aujourd'hui ? »",
-   "Ou : « Qu'est-ce qui t'a pesé, cette semaine ? »",
+   "Ce soir, posez plutôt cette question :",
+   "« Qu'est-ce qui t'a fait sourire aujourd'hui ? »",
    "Puis écoutez la réponse jusqu'au bout,",
-   "sans téléphone et sans donner de conseil.",
-   "Dix minutes suffisent.",
-   "C'est comme ça qu'on redevient curieux de l'autre."
+   "sans téléphone et sans donner de conseil."
   ],
-  "status": "envoyé à BIB le 08/11 (quota YouTube épuisé) : https://backend.composio.dev/api/v3/sl/iPhvh8-XFU"
+  "ask": "Et vous, quelle question posez-vous le soir ?",
+  "note": "première version envoyée à BIB le 08/11 mais jamais mise en ligne : refaite au format court"
  },
  "10": {
   "date": "2026-11-10",
@@ -254,34 +252,32 @@
   "status": "publié le 14/11 (fb0wAdP3smI)"
  },
  "13": {
-  "date": "2026-11-16",
-  "title": "Marchez 20 minutes ensemble (et regardez ce qui se passe) #couple #complicite",
-  "hook": "Le secret ? Marcher côte à côte.",
-  "lead": "Face à face, certaines discussions coincent. Côte à côte, en marchant, les mots viennent plus facilement. Vingt minutes, sans téléphone.",
+  "date": "2026-11-18",
+  "title": "Les 3 mots qui arrêtent une dispute qui dérape #couple #dispute",
+  "hook": "Votre dispute dérape ? Dites ces 3 mots",
+  "lead": "Quand une dispute dérape, trois mots suffisent souvent à faire redescendre la pression : « On recommence doucement ? »",
   "clips": [
-   "6189267/6189267-hd_1080_1920_25fps.mp4",
-   "31960022/13617890_1080_1920_30fps.mp4",
-   "4694585/4694585-hd_1080_2048_25fps.mp4",
-   "39587335/16873504_1080_1920_30fps.mp4",
-   "5607537/5607537-hd_1080_1920_24fps.mp4"
+   "8557568/8557568-hd_1080_1920_24fps.mp4",
+   "40347585/17239730_1080_1920_60fps.mp4",
+   "6380998/6380998-hd_1080_1920_24fps.mp4",
+   "30428233/13040327_1080_1920_30fps.mp4",
+   "8060570/8060570-hd_1080_2048_25fps.mp4"
   ],
   "chunks": [
-   "Certaines discussions coincent quand on est face à face.",
-   "Les regards pèsent, on se crispe.",
-   "Alors cette semaine, sortez marcher.",
-   "Juste vous deux, vingt minutes.",
-   "Téléphones dans la poche, en mode silencieux.",
-   "Côte à côte, les mots viennent plus facilement.",
-   "Parlez de tout et de rien, de vos envies, de vos souvenirs.",
-   "Et si un silence arrive, laissez-le.",
-   "Marcher ensemble, c'est déjà avancer ensemble."
-  ]
+   "Une dispute qui dérape, on connaît tous.",
+   "Le ton monte, et on ne sait plus comment arrêter.",
+   "Essayez ces trois mots : « On recommence doucement ? »",
+   "Dits calmement, ils changent tout.",
+   "Ce n'est pas avouer qu'on a tort.",
+   "C'est dire : notre couple compte plus que cette dispute."
+  ],
+  "ask": "Et vous, quels mots vous apaisent ?"
  },
  "14": {
-  "date": "2026-11-18",
-  "title": "Le petit bilan du dimanche qui évite les grosses disputes #couple #communication",
+  "date": "2026-11-20",
+  "title": "Les 3 questions du dimanche qui évitent les grosses disputes #couple #communication",
   "hook": "15 minutes le dimanche, ça change tout",
-  "lead": "Les petits agacements qu'on garde pour soi finissent par exploser. Une fois par semaine, faites un bilan de quinze minutes, avec trois questions simples.",
+  "lead": "Les petits agacements qu'on garde pour soi finissent par exploser. Le dimanche, prenez quinze minutes à deux pour trois questions simples.",
   "clips": [
    "8035633/8035633-hd_1080_2048_25fps.mp4",
    "6534946/6534946-hd_1080_1920_24fps.mp4",
@@ -290,16 +286,14 @@
    "34841453/14769316_1080_1920_30fps.mp4"
   ],
   "chunks": [
-   "Les petits agacements qu'on garde pour soi",
-   "finissent souvent par exploser, pour un détail.",
-   "Pour éviter ça, essayez le bilan du dimanche.",
-   "Quinze minutes, une fois par semaine, autour d'un thé.",
+   "Les petits agacements qu'on garde pour soi finissent par exploser.",
+   "Alors le dimanche, prenez quinze minutes à deux.",
    "Chacun répond à trois questions.",
-   "Un : qu'est-ce qui m'a fait du bien cette semaine ?",
-   "Deux : qu'est-ce qui a été difficile pour moi ?",
-   "Trois : de quoi j'aurais besoin la semaine prochaine ?",
-   "On écoute, sans se défendre.",
-   "Et les petits soucis restent petits."
-  ]
+   "Qu'est-ce qui m'a fait du bien cette semaine ?",
+   "Qu'est-ce qui a été difficile ?",
+   "De quoi j'aurais besoin la semaine prochaine ?",
+   "On écoute, sans se défendre."
+  ],
+  "ask": "Vous seriez prêts à essayer ce dimanche ?"
  }
 }

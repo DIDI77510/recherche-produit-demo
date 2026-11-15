@@ -7,6 +7,14 @@ CHANNEL = 'UCDEVWt4Cv_HUtdixoNDr9PA'
 BOOK = 'https://www.amazon.fr/dp/B0HP5KYMJZ'
 CTA_SAY = "Et si vous voulez trente exercices comme celui-ci, mon guide « 30 jours pour reconnecter son couple » est en lien dans la description."
 CTA_SHOW = "30 exercices comme celui-ci ?\\N➜ mon guide en lien dans la description"
+ASK_SHOW = "\\N➜ Le guide : lien dans la description"
+ASK_TAIL = 1.8   # format court : la question finale reste à l'écran un peu plus longtemps
+
+def ending(sp):
+    """Fin du Short : question au public (champ "ask", nouveau format court) ou ancien appel au guide."""
+    if sp.get('ask'):
+        return sp['ask'], sp['ask'] + ASK_SHOW, ASK_TAIL
+    return CTA_SAY, CTA_SHOW, TAIL
 GAP, LEAD, TAIL = 0.28, 0.15, 0.7
 
 def ffmpeg():
@@ -38,7 +46,7 @@ def specs():
 
 def tts(k, run_composio_tool):
     sp = specs()[str(k)]; d = f'{BASE}/{k}'; os.makedirs(d, exist_ok=True)
-    says = sp['chunks'] + [CTA_SAY]
+    says = sp['chunks'] + [ending(sp)[0]]
     for i, t in enumerate(says):
         p = f'{d}/a_{i:02d}.mp3'
         if os.path.exists(p) and os.path.getsize(p) > 1000:
@@ -75,16 +83,17 @@ def prep(k):
     """Étape rapide : voix assemblée + sous-titres + lance la conversion des clips en 720p (arrière-plan)."""
     import shlex
     ff = ffmpeg(); sp = specs()[str(k)]; d = f'{BASE}/{k}'
-    shows = sp['chunks'] + [CTA_SHOW]; n = len(shows)
+    _, end_show, tail = ending(sp)
+    shows = sp['chunks'] + [end_show]; n = len(shows)
     ad = [dur(f'{d}/a_{i:02d}.mp3') for i in range(n)]
     t = LEAD; ev = []
     for i in range(n):
         ev.append((t, t + ad[i] + 0.15, shows[i])); t += ad[i] + GAP
-    T = round(t - GAP + TAIL, 2)
+    T = round(t - GAP + tail, 2)
     inp = []; fc = []
     for i in range(n):
         inp += ['-i', f'{d}/a_{i:02d}.mp3']
-        pad = GAP if i < n - 1 else TAIL
+        pad = GAP if i < n - 1 else tail
         delay = int(LEAD * 1000) if i == 0 else 0
         fc.append(f'[{i}:a]aresample=44100,aformat=channel_layouts=mono,adelay={delay},apad=pad_dur={pad}[a{i}]')
     fc.append(''.join(f'[a{i}]' for i in range(n)) + f'concat=n={n}:v=0:a=1,loudnorm=I=-14:TP=-1.5[out]')
@@ -141,7 +150,8 @@ def status(k):
 
 def description(k):
     sp = specs()[str(k)]
-    return (sp['lead'] + f"\n\n📖 30 exercices comme celui-ci, un par jour : le guide « 30 jours pour reconnecter son couple » sur Amazon Kindle → {BOOK}"
+    ask = f"\n\n💬 {sp['ask']} Dites-le-moi en commentaire." if sp.get('ask') else ''
+    return (sp['lead'] + ask + f"\n\n📖 30 exercices comme celui-ci, un par jour : le guide « 30 jours pour reconnecter son couple » sur Amazon Kindle → {BOOK}"
             "\n\nAbonnez-vous à Renaissance Amoureuse pour des conseils concrets chaque semaine."
             "\n\nSi vous subissez des violences dans votre couple, ce n'est pas un problème de communication : appelez le 3919 (gratuit et anonyme)."
             "\n\nVoix : ElevenLabs\nImages : Pexels\n\n#couple #conseilcouple #relationamoureuse")

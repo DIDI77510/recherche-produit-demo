@@ -1,0 +1,50 @@
+{
+ "theme": "ep",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Défi 2027",
+   "big": "1 378 € de côté en 2027, sans y penser",
+   "sub": "Le défi des 52 semaines, expliqué en 3 slides",
+   "img": "ep-3.png"
+  },
+  {
+   "kind": "list",
+   "title": "Le principe",
+   "items": [
+    "Semaine 1 : tu mets 1 € de côté",
+    "Semaine 2 : 2 €… semaine 52 : 52 €",
+    "Tu colories la case : à la fin de l'année, 1 378 €"
+   ],
+   "img": "ep-3.png"
+  },
+  {
+   "kind": "page",
+   "title": "Colorie, ça motive",
+   "text": "Voir la page se remplir, c'est ce qui donne envie de continuer",
+   "img": "ep-3.png"
+  },
+  {
+   "kind": "list",
+   "title": "Et 5 autres défis",
+   "items": [
+    "Défi 1 000 €",
+    "Défi 5 000 €",
+    "Défi 10 000 €",
+    "Défi 100 enveloppes",
+    "Suivi mensuel"
+   ],
+   "img": "ep-5.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Défis d'épargne 2027",
+   "img": "ep-1.png",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

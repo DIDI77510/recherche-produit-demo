@@ -1,0 +1,44 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Nouvel an",
+   "big": "Tes résolutions tiennent jusqu'au 15 janvier ?",
+   "sub": "Essaie plutôt un vision board",
+   "img": "vb-2.png"
+  },
+  {
+   "kind": "list",
+   "title": "Pourquoi ça marche mieux",
+   "items": [
+    "Tu vois tes envies tous les jours, pas une fois par an",
+    "Tu découpes chaque rêve en petites actions",
+    "Tu coches tes progrès mois après mois"
+   ],
+   "img": "vb-4.png"
+  },
+  {
+   "kind": "page",
+   "title": "1 planche, 8 domaines de vie",
+   "text": "Santé, famille, argent, maison, travail, voyages, loisirs, moi",
+   "img": "vb-2.png"
+  },
+  {
+   "kind": "page",
+   "title": "48 mots + 12 cartes à découper",
+   "text": "Pour compléter ta planche avec tes photos",
+   "img": "vb-6.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Kit Vision Board 2027",
+   "img": "vb-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

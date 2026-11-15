@@ -1,0 +1,32 @@
+{
+ "theme": "ep",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Défi",
+   "big": "1 € la 1re semaine… 1 378 € à la fin",
+   "img": "ep-3.png",
+   "size": 88
+  },
+  {
+   "kind": "page",
+   "title": "Mon projet",
+   "img": "ep-2.png"
+  },
+  {
+   "kind": "page",
+   "title": "Défi 52 semaines",
+   "img": "ep-3.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Défis d'épargne 2027",
+   "img": "ep-1.png",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": true
+}

@@ -1,0 +1,39 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Idée soirée",
+   "big": "Une soirée vision board entre amies pour le Nouvel An",
+   "sub": "Magazines, ciseaux, colle… et ce kit",
+   "img": "vb-6.png"
+  },
+  {
+   "kind": "list",
+   "title": "Le déroulé",
+   "items": [
+    "Chacune imprime son kit",
+    "On choisit son mot de l'année",
+    "On découpe, on colle, on se raconte ses rêves",
+    "On garde sa planche bien en vue toute l'année"
+   ],
+   "img": "vb-2.png"
+  },
+  {
+   "kind": "page",
+   "title": "Mes objectifs 2027",
+   "text": "3 envies concrètes par domaine",
+   "img": "vb-3.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Kit Vision Board 2027",
+   "img": "vb-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

@@ -1,0 +1,37 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "Fais ton vision board en 1 soirée",
+   "img": "vb-1.png",
+   "size": 92
+  },
+  {
+   "kind": "page",
+   "title": "Ta planche",
+   "img": "vb-2.png"
+  },
+  {
+   "kind": "page",
+   "title": "Tes objectifs",
+   "img": "vb-3.png"
+  },
+  {
+   "kind": "page",
+   "title": "Tes mots",
+   "img": "vb-6.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Kit Vision Board 2027",
+   "img": "vb-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": true
+}

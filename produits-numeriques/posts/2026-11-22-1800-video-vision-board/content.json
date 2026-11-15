@@ -1,0 +1,32 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Nouvel an",
+   "big": "Ton mot de l'année 2027 ?",
+   "img": "vb-5.png",
+   "size": 96
+  },
+  {
+   "kind": "page",
+   "title": "Calme · Oser · Joie",
+   "img": "vb-6.png"
+  },
+  {
+   "kind": "page",
+   "title": "12 cartes d'affirmation",
+   "img": "vb-7.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Kit Vision Board 2027",
+   "img": "vb-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": true
+}

@@ -1,0 +1,37 @@
+{
+ "theme": "ep",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "Économise en coloriant des cases",
+   "img": "ep-1.png",
+   "size": 92
+  },
+  {
+   "kind": "page",
+   "title": "52 semaines",
+   "img": "ep-3.png"
+  },
+  {
+   "kind": "page",
+   "title": "1 000 €",
+   "img": "ep-4.png"
+  },
+  {
+   "kind": "page",
+   "title": "100 enveloppes",
+   "img": "ep-7.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Défis d'épargne 2027",
+   "img": "ep-1.png",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": true
+}

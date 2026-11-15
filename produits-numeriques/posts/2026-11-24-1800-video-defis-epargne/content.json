@@ -1,0 +1,32 @@
+{
+ "theme": "ep",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Défi",
+   "big": "10 000 € en 100 cases",
+   "img": "ep-6.png",
+   "size": 96
+  },
+  {
+   "kind": "page",
+   "title": "Colorie à chaque versement",
+   "img": "ep-6.png"
+  },
+  {
+   "kind": "page",
+   "title": "Note tout chaque mois",
+   "img": "ep-8.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Défis d'épargne 2027",
+   "img": "ep-1.png",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": true
+}

@@ -1,0 +1,45 @@
+{
+ "theme": "ep",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Black Friday",
+   "big": "Et si cette année, tu économisais au lieu de dépenser ?",
+   "sub": "Choisis ton défi selon ton budget",
+   "img": "ep-4.png"
+  },
+  {
+   "kind": "list",
+   "title": "Quel défi pour toi ?",
+   "items": [
+    "Petit budget : défi 1 000 €",
+    "Budget moyen : défi 5 000 €",
+    "Gros projet : défi 10 000 €",
+    "Tu aimes le hasard : 100 enveloppes"
+   ],
+   "img": "ep-5.png"
+  },
+  {
+   "kind": "page",
+   "title": "Défi 10 000 €",
+   "text": "100 cases de 20 € à 250 €",
+   "img": "ep-6.png"
+  },
+  {
+   "kind": "page",
+   "title": "Suivi mensuel",
+   "text": "Objectif, épargné, total : tout est noté",
+   "img": "ep-8.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Défis d'épargne 2027",
+   "img": "ep-1.png",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

@@ -1,0 +1,32 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "1 an, 4 saisons, 1 plan",
+   "img": "vb-4.png",
+   "size": 96
+  },
+  {
+   "kind": "page",
+   "title": "Hiver · Printemps · Été · Automne",
+   "img": "vb-4.png"
+  },
+  {
+   "kind": "page",
+   "title": "Coche tes progrès",
+   "img": "vb-8.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Kit Vision Board 2027",
+   "img": "vb-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": true
+}

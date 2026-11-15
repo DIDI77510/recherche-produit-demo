@@ -1,0 +1,38 @@
+{
+ "theme": "ep",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Défi viral",
+   "big": "Le défi des 100 enveloppes",
+   "sub": "5 050 € en fin de défi. Comment ça marche ?",
+   "img": "ep-7.png"
+  },
+  {
+   "kind": "list",
+   "title": "Comment faire",
+   "items": [
+    "Tire un numéro entre 1 et 100",
+    "Mets ce montant de côté",
+    "Barre la case. Recommence quand tu peux"
+   ],
+   "img": "ep-7.png"
+  },
+  {
+   "kind": "page",
+   "title": "1 + 2 + … + 100 = 5 050 €",
+   "text": "À ton rythme : 1 case par jour, par semaine ou par paie",
+   "img": "ep-7.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Défis d'épargne 2027",
+   "img": "ep-1.png",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

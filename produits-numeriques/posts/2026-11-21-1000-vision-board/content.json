@@ -1,0 +1,40 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Le mot de l'année",
+   "big": "Et toi, ce serait quoi ton mot pour 2027 ?",
+   "sub": "Calme ? Oser ? Liberté ? Dis-le en commentaire",
+   "img": "vb-5.png"
+  },
+  {
+   "kind": "page",
+   "title": "Ce que je laisse en 2026",
+   "text": "Et ce que j'emmène en 2027",
+   "img": "vb-5.png"
+  },
+  {
+   "kind": "page",
+   "title": "Mon année en 4 saisons",
+   "text": "1 objectif, 3 petites actions, 1 récompense par trimestre",
+   "img": "vb-4.png"
+  },
+  {
+   "kind": "page",
+   "title": "12 cartes d'affirmation",
+   "text": "« 2027 est mon année. »",
+   "img": "vb-7.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Kit Vision Board 2027",
+   "img": "vb-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "PDF à imprimer · A4 + US Letter · téléchargement immédiat"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

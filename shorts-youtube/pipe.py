@@ -90,6 +90,7 @@ def prep(k):
     for i in range(n):
         ev.append((t, t + ad[i] + 0.15, shows[i])); t += ad[i] + GAP
     T = round(t - GAP + tail, 2)
+    ev[-1] = (ev[-1][0], T, ev[-1][2])   # la dernière phrase reste affichée jusqu'à la fin
     inp = []; fc = []
     for i in range(n):
         inp += ['-i', f'{d}/a_{i:02d}.mp3']

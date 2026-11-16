@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Ta laisse te scie la main ?",
+  "slides": [
+    {"type": "hook", "photo": "laisse-promenade-rue.jpg", "pos": "50% center", "kicker": "LA BALADE DU LUNDI", "lines": ["Ta laisse", "te scie"], "accent_line": "la main ?", "sub": "Une sangle fine, un chien qui tire… et des marques rouges au retour."},
+    {"type": "benefit", "photo": "laisse-poignee-mousse.jpg", "kicker": "01 · CONFORT", "title": "Poignée en mousse", "text": "Une prise douce et épaisse, plus agréable à tenir pendant toute la balade."},
+    {"type": "benefit", "photo": "laisse-chien-terrasse.jpg", "fit": "cover", "kicker": "02 · 5 MÈTRES", "title": "De la marge pour lui", "text": "Il a la place de renifler sans que tu tires sur ton bras à chaque pas."},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "03 · LES SACS", "title": "Distributeur accroché", "text": "Les sacs à crottes voyagent avec la laisse : plus besoin de fouiller tes poches."},
+    {"type": "price", "photo": "laisse-boite.jpg", "name": "Laisse réfléchissante 5 m", "detail": "Avec distributeur de sacs · réfléchissante le soir", "price": "14,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

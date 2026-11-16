@@ -1,0 +1,41 @@
+{
+ "theme": "col",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Idée cadeau",
+   "big": "Un cadeau qui détend, à imprimer en 2 minutes",
+   "sub": "Pour une maman, une amie, une collègue",
+   "img": "col-07.png"
+  },
+  {
+   "kind": "list",
+   "title": "Pourquoi ça plaît",
+   "items": [
+    "Traits épais : facile même aux feutres",
+    "Grandes zones : on termine une page en une soirée",
+    "Thèmes cosy : tasse, bougies, chalet, chat"
+   ]
+  },
+  {
+   "kind": "page",
+   "title": "Gâteau & cupcakes",
+   "img": "col-07.png"
+  },
+  {
+   "kind": "page",
+   "title": "Bougies & livres",
+   "img": "col-08.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Coloriages cosy",
+   "img": "col-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

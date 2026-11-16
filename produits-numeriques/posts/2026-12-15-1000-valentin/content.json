@@ -1,0 +1,33 @@
+{
+ "theme": "val",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Saint-Valentin",
+   "big": "Le cadeau qui fait plaisir et ne coûte presque rien",
+   "sub": "20 bons d'amour à imprimer",
+   "img": "val-2.png"
+  },
+  {
+   "kind": "page",
+   "title": "Petit-déjeuner au lit, massage…",
+   "text": "20 bons prêts à offrir",
+   "img": "val-2.png"
+  },
+  {
+   "kind": "page",
+   "title": "+ 4 bons à écrire toi-même",
+   "img": "val-5.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Bons d'amour Saint-Valentin",
+   "img": "val-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

@@ -1,0 +1,36 @@
+{
+ "theme": "lun",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Signe chinois",
+   "big": "Tu es né en quelle année ?",
+   "sub": "Trouve ton animal du zodiaque chinois",
+   "img": "lun-04.png"
+  },
+  {
+   "kind": "list",
+   "title": "Exemples",
+   "items": [
+    "2027, 2015, 2003 : Chèvre",
+    "2024, 2012, 2000 : Dragon",
+    "2020, 2008, 1996 : Rat"
+   ]
+  },
+  {
+   "kind": "page",
+   "title": "Le tableau complet dans le pack",
+   "img": "lun-04.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Nouvel An lunaire 2027",
+   "img": "lun-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

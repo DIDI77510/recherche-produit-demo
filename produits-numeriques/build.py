@@ -7,7 +7,10 @@ SER = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
 F = lambda p, s: ImageFont.truetype(p, s)
 PG = os.environ.get("PAGES_DIR", "/home/claude/promo/pages/")
 THEMES = {"vb": dict(bg=(244, 236, 226), ink=(58, 51, 64), acc=(201, 164, 106), soft=(231, 184, 168)),
-          "ep": dict(bg=(243, 241, 234), ink=(47, 59, 58), acc=(201, 164, 106), soft=(143, 169, 138))}
+          "ep": dict(bg=(243, 241, 234), ink=(47, 59, 58), acc=(201, 164, 106), soft=(143, 169, 138)),
+          "val": dict(bg=(253, 243, 241), ink=(74, 42, 54), acc=(200, 66, 90), soft=(242, 184, 194)),
+          "lun": dict(bg=(251, 243, 228), ink=(110, 16, 30), acc=(200, 16, 46), soft=(212, 162, 76)),
+          "col": dict(bg=(246, 241, 232), ink=(45, 45, 52), acc=(201, 164, 106), soft=(220, 233, 226))}
 
 
 def fr_nbsp(t):

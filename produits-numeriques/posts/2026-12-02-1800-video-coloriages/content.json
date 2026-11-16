@@ -1,0 +1,37 @@
+{
+ "theme": "col",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Cosy",
+   "big": "10 coloriages pour tes soirées d'hiver",
+   "img": "col-01.png",
+   "size": 88
+  },
+  {
+   "kind": "page",
+   "title": "Théière & tasses",
+   "img": "col-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "Boulangerie",
+   "img": "col-09.png"
+  },
+  {
+   "kind": "page",
+   "title": "Avant / après",
+   "img": "col-avant-apres.jpg"
+  },
+  {
+   "kind": "cta",
+   "title": "Coloriages cosy",
+   "img": "col-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio"
+}

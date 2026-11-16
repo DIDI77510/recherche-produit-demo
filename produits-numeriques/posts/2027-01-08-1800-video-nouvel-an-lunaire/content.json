@@ -1,0 +1,27 @@
+{
+ "theme": "lun",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Activité enfants",
+   "big": "Bingo du Nouvel An lunaire",
+   "img": "lun-02.png",
+   "size": 96
+  },
+  {
+   "kind": "page",
+   "title": "Cartes de vœux",
+   "img": "lun-06.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Nouvel An lunaire 2027",
+   "img": "lun-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio"
+}

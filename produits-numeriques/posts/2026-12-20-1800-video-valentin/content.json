@@ -1,0 +1,27 @@
+{
+ "theme": "val",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Couple",
+   "big": "Lequel tu choisirais en premier ?",
+   "img": "val-3.png",
+   "size": 96
+  },
+  {
+   "kind": "page",
+   "title": "Soirée film, dîner, câlins…",
+   "img": "val-3.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Bons d'amour Saint-Valentin",
+   "img": "val-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio"
+}

@@ -1,0 +1,37 @@
+{
+ "theme": "col",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Anti-stress",
+   "big": "10 minutes de coloriage le soir, ça change tout",
+   "sub": "Traits épais, grandes zones : pas besoin d'être douée",
+   "img": "col-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "Tasse fumante & biscuits",
+   "img": "col-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "Petite maison au jardin",
+   "img": "col-05.png"
+  },
+  {
+   "kind": "page",
+   "title": "Chalet sous la neige",
+   "img": "col-11.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Coloriages cosy",
+   "img": "col-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

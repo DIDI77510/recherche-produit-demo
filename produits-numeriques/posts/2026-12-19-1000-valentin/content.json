@@ -1,0 +1,32 @@
+{
+ "theme": "val",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Idée surprise",
+   "big": "Glisse-les dans un bocal pour la Saint-Valentin",
+   "sub": "Ta moitié en tire un quand elle veut",
+   "img": "val-4.png"
+  },
+  {
+   "kind": "list",
+   "title": "Comment faire",
+   "items": [
+    "Imprime sur papier épais",
+    "Découpe les 24 bons",
+    "Écris « De » et « Pour »",
+    "Mets-les dans un bocal ou une enveloppe"
+   ]
+  },
+  {
+   "kind": "cta",
+   "title": "Bons d'amour Saint-Valentin",
+   "img": "val-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

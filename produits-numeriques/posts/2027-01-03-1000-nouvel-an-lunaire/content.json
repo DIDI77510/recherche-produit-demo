@@ -1,0 +1,39 @@
+{
+ "theme": "lun",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "6 février 2027",
+   "big": "Le Nouvel An lunaire en famille ou en classe",
+   "sub": "Année de la Chèvre : 8 activités à imprimer",
+   "img": "lun-01.png"
+  },
+  {
+   "kind": "page",
+   "title": "Bingo du Nouvel An",
+   "text": "4 cartes + cartes d'appel",
+   "img": "lun-02.png"
+  },
+  {
+   "kind": "page",
+   "title": "Quel est ton animal ?",
+   "text": "Les 12 animaux et leurs années",
+   "img": "lun-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "Enveloppes rouges à plier",
+   "img": "lun-05.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Nouvel An lunaire 2027",
+   "img": "lun-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

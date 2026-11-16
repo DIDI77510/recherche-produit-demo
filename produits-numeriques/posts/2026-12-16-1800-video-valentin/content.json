@@ -1,0 +1,32 @@
+{
+ "theme": "val",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "14 février",
+   "big": "20 bons d'amour à offrir",
+   "img": "val-1.png",
+   "size": 96
+  },
+  {
+   "kind": "page",
+   "title": "Imprime, découpe, offre",
+   "img": "val-3.png"
+  },
+  {
+   "kind": "page",
+   "title": "Joker « Tu as raison »",
+   "img": "val-2.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Bons d'amour Saint-Valentin",
+   "img": "val-1.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio"
+}

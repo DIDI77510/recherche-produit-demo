@@ -1,0 +1,32 @@
+{
+ "theme": "col",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Pause",
+   "big": "Ton moment calme du dimanche",
+   "img": "col-12.png",
+   "size": 92
+  },
+  {
+   "kind": "page",
+   "title": "Chat endormi sur son plaid",
+   "img": "col-12.png"
+  },
+  {
+   "kind": "page",
+   "title": "Maison-champignon",
+   "img": "col-10.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Coloriages cosy",
+   "img": "col-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio"
+}

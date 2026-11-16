@@ -1,0 +1,39 @@
+{
+ "theme": "vb",
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Planner numérique",
+   "big": "Ton planner iPad est tout gris ?",
+   "sub": "100 stickers pastel à glisser en 1 geste",
+   "img": "st-FR_1_couverture.jpg"
+  },
+  {
+   "kind": "list",
+   "title": "Dans le pack",
+   "items": [
+    "30 étiquettes en français",
+    "20 post-it et check-lists",
+    "12 washi tapes + 12 icônes",
+    "Pastilles jours + surligneurs"
+   ],
+   "img": "st-planche.png"
+  },
+  {
+   "kind": "page",
+   "title": "1 planche à importer",
+   "text": "GoodNotes, Notability, Noteshelf",
+   "img": "st-planche.png"
+  },
+  {
+   "kind": "cta",
+   "title": "100 stickers GoodNotes",
+   "img": "st-FR_1_couverture.jpg",
+   "price": "2,90 €",
+   "btn": "Lien en bio",
+   "small": "Téléchargement immédiat · usage personnel"
+  }
+ ],
+ "handle": "lien en bio",
+ "video": false
+}

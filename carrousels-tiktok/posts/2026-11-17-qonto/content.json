@@ -1,0 +1,77 @@
+{
+  "brand": "qonto",
+  "handle": "@classpro36",
+  "slide1": {
+    "kicker": "FREELANCE & COMPTE PRO",
+    "pre": "Freelance :",
+    "big": "3",
+    "big_size": 300,
+    "lines": [
+      "corvées admin"
+    ],
+    "accent_line": "à alléger.",
+    "lines_size": 100,
+    "intro": "Tickets perdus, factures oubliées, relevés à trier : ton compte pro peut t'aider.",
+    "box": "Jusqu’à 160 € offerts avec un lien de parrainage",
+    "note": "Selon les conditions de l’offre de parrainage Qonto."
+  },
+  "slide2": {
+    "kicker": "LES CORVÉES",
+    "title1": "Ce que",
+    "title2": "l'appli fait.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Les justificatifs",
+        "text": "Le ticket en photo dans l'appli, juste après le paiement."
+      },
+      {
+        "tag": "02",
+        "title": "Les factures",
+        "text": "Créées et envoyées depuis le même outil que ton compte."
+      },
+      {
+        "tag": "03",
+        "title": "Le comptable",
+        "text": "Un accès ou un export, au lieu de 20 mails et d'un carton de tickets."
+      }
+    ],
+    "warn": "Le compte pro est payant : compare les forfaits avant de choisir.",
+    "source": "Fonctions et tarifs à vérifier sur qonto.com"
+  },
+  "slide3": {
+    "kicker": "LA PRIME",
+    "title1": "Compte pro",
+    "title2": "+ prime.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Sans lien, pas de prime : l’inscription directe ne compte pas."
+      },
+      {
+        "t": "80 € au 1er palier",
+        "d": "50 € d’achats éligibles avec ta carte physique dans les 60 jours."
+      },
+      {
+        "t": "80 € de plus au 2e palier",
+        "d": "Plus de 3 000 € d’achats avec la carte physique dans les 60 jours."
+      },
+      {
+        "t": "Paie ta 1re échéance d'abonnement",
+        "d": "Exclus : retraits, restos, bars, tabac, jeux d'argent."
+      }
+    ],
+    "banner": "Prime versée sous 7 jours ouvrés après les paliers."
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Clique sur le lien en bio, puis sur « Qonto ».",
+      "Ouvre ton compte pro et commande ta carte physique.",
+      "Prends l'habitude : 1 paiement = 1 photo du ticket."
+    ],
+    "disclaimer": "Publicité : je touche une prime si tu ouvres un compte via mon lien. Vérifie l’offre en cours et les tarifs sur qonto.com."
+  },
+  "caption": "Freelance : 3 corvées admin que ton compte pro peut alléger 👇 Justificatifs en photo, factures et accès comptable au même endroit. Et avec le parrainage Qonto, jusqu’à 160 € offerts (sous conditions : carte physique, paliers d’achats en 60 jours). Lien en bio. #publicité #qonto #parrainage #freelance #autoentrepreneur #comptabilite",
+  "title": "Freelance : moins d'admin chaque semaine 🗂️"
+}

@@ -1,0 +1,44 @@
+{
+ "theme": "hab",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Idées 2027",
+   "big": "6 petites habitudes qui changent une année",
+   "img": "habfr-03.png",
+   "size": 76
+  },
+  {
+   "kind": "list",
+   "title": "Choisis-en 3",
+   "items": [
+    "Boire 1,5 L d'eau",
+    "20 min de marche",
+    "Lire 10 pages",
+    "Pas d'écran au lit",
+    "5 min de rangement",
+    "Coucher avant 23 h"
+   ]
+  },
+  {
+   "kind": "page",
+   "title": "L'humeur de ton année",
+   "img": "habfr-17.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le bilan du mois",
+   "img": "habfr-20.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Suivi d'habitudes 2027",
+   "img": "habfr-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "20 pages à imprimer · A4 + US Letter · usage personnel"
+  }
+ ]
+}

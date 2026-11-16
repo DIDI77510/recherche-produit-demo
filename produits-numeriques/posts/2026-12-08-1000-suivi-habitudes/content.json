@@ -1,0 +1,44 @@
+{
+ "theme": "hab",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "Une croix par jour. Une habitude qui tient.",
+   "sub": "Ton suivi d'habitudes à imprimer",
+   "img": "habfr-01.png",
+   "size": 78
+  },
+  {
+   "kind": "list",
+   "title": "Comment ça marche",
+   "items": [
+    "Choisis 3 à 6 habitudes simples",
+    "Chaque soir, colorie la case du jour",
+    "Ne casse pas la chaîne"
+   ],
+   "img": "habfr-05.png"
+  },
+  {
+   "kind": "page",
+   "title": "12 mois datés 2027",
+   "text": "Week-ends repérés, 12 habitudes par mois",
+   "img": "habfr-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "Ton année en 365 cases",
+   "img": "habfr-16.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Suivi d'habitudes 2027",
+   "img": "habfr-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "20 pages à imprimer · A4 + US Letter · usage personnel"
+  }
+ ]
+}

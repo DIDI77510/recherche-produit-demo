@@ -1,0 +1,32 @@
+{
+ "theme": "tch",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "3-10 ans",
+   "big": "Des enfants qui aident… sans qu'on répète",
+   "img": "tachesfr-01.png",
+   "size": 84
+  },
+  {
+   "kind": "page",
+   "title": "Ma semaine",
+   "img": "tachesfr-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "30 étoiles à colorier",
+   "img": "tachesfr-07.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Tableau des tâches & des récompenses",
+   "img": "tachesfr-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "14 pages à imprimer · 3-10 ans · A4 + US Letter"
+  }
+ ]
+}

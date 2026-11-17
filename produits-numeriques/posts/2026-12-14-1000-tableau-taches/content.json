@@ -1,0 +1,44 @@
+{
+ "theme": "tch",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Fini les cris",
+   "big": "« Range ta chambre ! » pour la 10e fois ?",
+   "sub": "Le tableau qui rend les enfants autonomes",
+   "img": "tachesfr-03.png",
+   "size": 76
+  },
+  {
+   "kind": "list",
+   "title": "Comment ça marche",
+   "items": [
+    "Choisis 3 à 5 tâches avec ton enfant",
+    "Une case coloriée par tâche faite",
+    "10, 20, 30 étoiles : une récompense choisie ensemble"
+   ],
+   "img": "tachesfr-07.png"
+  },
+  {
+   "kind": "page",
+   "title": "Des pictos pour les petits",
+   "text": "Même ceux qui ne lisent pas encore",
+   "img": "tachesfr-10.png"
+  },
+  {
+   "kind": "page",
+   "title": "Routine du matin et du soir",
+   "img": "tachesfr-05.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Tableau des tâches & des récompenses",
+   "img": "tachesfr-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "14 pages à imprimer · 3-10 ans · A4 + US Letter"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "theme": "tch",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Janvier 2027",
+   "big": "Nouvelle année, nouvelles routines",
+   "sub": "Pour toute la famille, jusqu'à 4 enfants",
+   "img": "tachesfr-09.png",
+   "size": 80
+  },
+  {
+   "kind": "page",
+   "title": "Le menu des récompenses",
+   "text": "Des moments partagés plutôt que des achats",
+   "img": "tachesfr-08.png"
+  },
+  {
+   "kind": "page",
+   "title": "24 cartes à découper",
+   "img": "tachesfr-11.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le diplôme de fin de mois",
+   "img": "tachesfr-12.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Tableau des tâches & des récompenses",
+   "img": "tachesfr-01.png",
+   "price": "3,90 €",
+   "btn": "Lien en bio",
+   "small": "14 pages à imprimer · 3-10 ans · A4 + US Letter"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Il veut tout renifler ?",
+  "slides": [
+    {"type": "hook", "photo": "laisse-chien-terrasse.jpg", "pos": "50% center", "kicker": "LA PAUSE DE MIDI", "lines": ["Il veut", "tout"], "accent_line": "renifler ?", "sub": "Chaque arbre, chaque buisson… et toi tu suis au bout d'une laisse trop courte."},
+    {"type": "benefit", "photo": "laisse-promenade-rue.jpg", "fit": "cover", "kicker": "01 · 5 MÈTRES", "title": "Il explore à son rythme", "text": "5 m de corde : il va renifler plus loin, toi tu restes sur le trottoir."},
+    {"type": "benefit", "photo": "laisse-poignee-mousse.jpg", "kicker": "02 · CONFORT", "title": "Poignée en mousse", "text": "Plus douce pour ta main quand il part d'un coup vers une odeur."},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "03 · APRÈS LE RENIFLAGE…", "title": "Les sacs sont là", "text": "Le distributeur de sacs est accroché à la laisse : prêt quand il faut ramasser."},
+    {"type": "benefit", "photo": "laisse-boite.jpg", "kicker": "04 · LE SOIR", "title": "Réfléchissante", "text": "Ses fils renvoient la lumière des phares quand il fait nuit tôt."},
+    {"type": "price", "photo": "laisse-boite.jpg", "name": "Laisse réfléchissante 5 m", "detail": "Avec distributeur de sacs · réfléchissante le soir", "price": "14,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

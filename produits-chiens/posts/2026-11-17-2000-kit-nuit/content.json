@@ -1,0 +1,56 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Kit Promenade de Nuit (collier LED + laisse réfléchissante 5 m)",
+  "title": "Un cadeau pour un fan de chien ?",
+  "slides": [
+    {
+      "type": "hook",
+      "photo": "collier-rouge-chien-allume.jpg",
+      "pos": "50% center",
+      "kicker": "NOËL APPROCHE",
+      "lines": [
+        "Un cadeau",
+        "pour un"
+      ],
+      "accent_line": "fan de chien ?",
+      "sub": "Utile tout l'hiver, pour les balades du soir."
+    },
+    {
+      "type": "benefit",
+      "photo": "kit-rouge.jpg",
+      "kicker": "01 · UN VRAI KIT",
+      "title": "Collier + laisse",
+      "text": "Un collier LED lumineux et une laisse réfléchissante de 5 m, ensemble."
+    },
+    {
+      "type": "benefit",
+      "photo": "collier-bleu-chien-nuit.jpg",
+      "kicker": "02 · UTILE TOUT L'HIVER",
+      "title": "Pour les balades de nuit",
+      "text": "Il fait nuit dès 17 h : le collier allumé aide à repérer le chien dans le noir."
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-distributeur.jpg",
+      "kicker": "03 · LE PETIT PLUS",
+      "title": "Sacs à crottes inclus",
+      "text": "Le distributeur est accroché à la laisse réfléchissante."
+    },
+    {
+      "type": "benefit",
+      "photo": "kit-bleu.jpg",
+      "kicker": "04 · AU CHOIX",
+      "title": "Rouge ou bleu",
+      "text": "Choisis la couleur qui ira le mieux à son chien."
+    },
+    {
+      "type": "price",
+      "photo": "kit-bleu.jpg",
+      "name": "Kit Promenade de Nuit",
+      "detail": "Collier LED + laisse 5 m · rouge ou bleu",
+      "price": "21,99 €",
+      "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"
+    }
+  ]
+}

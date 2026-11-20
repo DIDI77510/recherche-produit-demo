@@ -1,0 +1,11 @@
+{
+ "theme": "ep",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {"kind": "hook", "kicker": "Après les fêtes", "big": "4 règles simples pour un budget qui tient", "img": "budfr-03.png", "size": 80},
+  {"kind": "list", "title": "Garde-les sous les yeux", "items": ["Écris tes revenus avant de dépenser", "Donne un rôle à chaque euro", "Paie-toi en premier : épargne dès le 1er", "Fais le tri dans tes abonnements"], "img": "budfr-21.png"},
+  {"kind": "page", "title": "Tes objectifs d'argent", "text": "3 objectifs et une barre de progression", "img": "budfr-03.png"},
+  {"kind": "cta", "title": "Planificateur budget 2027", "img": "budfr-01.png", "price": "4,90 €", "btn": "Lien en bio", "small": "22 pages à imprimer · A4 + US Letter"}
+ ]
+}

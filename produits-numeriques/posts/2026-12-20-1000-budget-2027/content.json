@@ -1,0 +1,12 @@
+{
+ "theme": "ep",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {"kind": "hook", "kicker": "Budget 2027", "big": "Le 20 du mois, plus rien sur le compte ?", "sub": "On sait rarement où part l'argent. Et si on l'écrivait ?", "img": "budfr-05.png", "size": 80},
+  {"kind": "page", "title": "Prévu, puis réel", "text": "Chaque mois daté, avec la case « Il me reste »", "img": "budfr-05.png"},
+  {"kind": "page", "title": "Les factures à cocher", "text": "Plus d'oubli, plus de frais de retard", "img": "budfr-18.png"},
+  {"kind": "page", "title": "100 cases d'épargne", "text": "Une case coloriée à chaque mise de côté", "img": "budfr-20.png"},
+  {"kind": "cta", "title": "Planificateur budget 2027", "img": "budfr-01.png", "price": "4,90 €", "btn": "Lien en bio", "small": "22 pages à imprimer · A4 + US Letter"}
+ ]
+}

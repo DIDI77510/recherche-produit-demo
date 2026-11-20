@@ -1,0 +1,11 @@
+{
+ "theme": "ep",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {"kind": "hook", "kicker": "Janvier 2027", "big": "Ton budget en 10 minutes par mois", "img": "budfr-05.png", "size": 88},
+  {"kind": "page", "title": "Tes dettes, une par une", "img": "budfr-19.png"},
+  {"kind": "page", "title": "Ton fonds d'urgence", "img": "budfr-20.png"},
+  {"kind": "cta", "title": "Planificateur budget 2027", "img": "budfr-01.png", "price": "4,90 €", "btn": "Lien en bio", "small": "22 pages à imprimer · A4 + US Letter"}
+ ]
+}

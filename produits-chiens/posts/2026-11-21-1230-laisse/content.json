@@ -1,0 +1,14 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Grande balade du week-end ?",
+  "slides": [
+    {"type": "hook", "photo": "laisse-chien-terrasse.jpg", "pos": "50% center", "kicker": "C'EST LE WEEK-END", "lines": ["La grande", "balade du"], "accent_line": "samedi ?", "sub": "Et au moment de ramasser… plus un seul sac dans la poche."},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "01 · LES SACS", "title": "Toujours sur la laisse", "text": "Le distributeur de sacs est accroché à la laisse : tu ne pars plus sans."},
+    {"type": "benefit", "photo": "laisse-promenade-rue.jpg", "fit": "cover", "kicker": "02 · 5 MÈTRES", "title": "Il a de la marge", "text": "Assez de longueur pour qu'il renifle tranquille pendant toute la balade."},
+    {"type": "benefit", "photo": "laisse-poignee-mousse.jpg", "kicker": "03 · CONFORT", "title": "Poignée en mousse", "text": "Plus agréable à tenir quand la balade dure."},
+    {"type": "benefit", "photo": "laisse-boite.jpg", "kicker": "04 · SI ÇA S'ÉTERNISE", "title": "Réfléchissante", "text": "Retour à la nuit tombée ? Elle renvoie la lumière des phares."},
+    {"type": "price", "photo": "laisse-boite.jpg", "name": "Laisse réfléchissante 5 m", "detail": "Avec distributeur de sacs · réfléchissante le soir", "price": "14,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "brand": "qonto",
+  "handle": "@classpro36",
+  "slide1": {
+    "kicker": "BANQUE PRO : BIEN CHOISIR",
+    "pre": "Agence ou appli ?",
+    "big": "3",
+    "big_size": 300,
+    "lines": [
+      "questions"
+    ],
+    "accent_line": "avant de choisir.",
+    "lines_size": 100,
+    "intro": "Banque traditionnelle ou compte pro en ligne : compare sur les bons critères.",
+    "box": "Jusqu’à 160 € offerts avec un lien de parrainage",
+    "note": "Selon les conditions de l’offre de parrainage Qonto."
+  },
+  "slide2": {
+    "kicker": "LES QUESTIONS",
+    "title1": "Pose-toi",
+    "title2": "ces questions.",
+    "cards": [
+      {
+        "tag": "01",
+        "title": "Combien ça coûte ?",
+        "text": "Forfait mensuel, frais par opération, carte : additionne tout."
+      },
+      {
+        "tag": "02",
+        "title": "Agence ou appli ?",
+        "text": "Besoin d'un conseiller en face, ou tout gérer depuis ton téléphone ?"
+      },
+      {
+        "tag": "03",
+        "title": "Quels outils ?",
+        "text": "Factures, justificatifs, accès comptable : intégrés ou à part ?"
+      }
+    ],
+    "warn": "Pas de meilleure banque pour tous : tout dépend de ton activité.",
+    "source": "Tarifs et services à vérifier sur le site de chaque banque"
+  },
+  "slide3": {
+    "kicker": "LA PRIME",
+    "title1": "Compte pro",
+    "title2": "+ prime.",
+    "items": [
+      {
+        "t": "Inscris-toi via un lien de parrainage",
+        "d": "Sans lien, pas de prime : l’inscription directe ne compte pas."
+      },
+      {
+        "t": "80 € au 1er palier",
+        "d": "50 € d’achats avec ta carte physique dans les 60 jours après l'activation."
+      },
+      {
+        "t": "80 € de plus au 2e palier",
+        "d": "3 000 € d’achats dans les 60 jours après l'activation."
+      }
+    ],
+    "banner": "Conditions complètes sur qonto.com/fr/referral"
+  },
+  "slide4": {
+    "kicker": "ÉTAPE SUIVANTE",
+    "items": [
+      "Note tes 3 réponses et compare 2 ou 3 offres.",
+      "Si Qonto te convient : lien en bio, puis « Qonto ».",
+      "Commande ta carte physique pour viser le 1er palier."
+    ],
+    "disclaimer": "Publicité : je touche une prime si tu ouvres un compte via mon lien. Vérifie l’offre en cours et les tarifs sur qonto.com."
+  },
+  "caption": "Banque pro : 3 questions à te poser avant de choisir 👇 Coût réel, agence ou appli, outils intégrés. Et si tu choisis Qonto avec le parrainage, jusqu’à 160 € offerts (sous conditions : carte physique, paliers d’achats en 60 jours). Lien en bio. #publicité #qonto #parrainage #banquepro #entrepreneur #freelance",
+  "title": "Banque pro : 3 questions avant de choisir 🏦"
+}

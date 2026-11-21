@@ -1,0 +1,12 @@
+{
+ "theme": "rep",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {"kind": "hook", "kicker": "Anti-gaspi", "big": "Tu jettes encore des restes ?", "sub": "Un frigo bien rangé = moins de courses et moins de gâchis.", "img": "repfr-08.png", "size": 82},
+  {"kind": "list", "title": "Le dimanche, 4 gestes", "items": ["Regarder le frigo et le placard", "Choisir 4 ou 5 repas", "Écrire la liste par rayon", "Noter les restes à finir"], "img": "repfr-12.png"},
+  {"kind": "page", "title": "L'inventaire du frigo", "text": "Frigo, placard, congélateur : avant le…", "img": "repfr-08.png"},
+  {"kind": "page", "title": "Restes et anti-gaspi", "text": "Avec des idées pour le lendemain", "img": "repfr-12.png"},
+  {"kind": "cta", "title": "Planificateur de repas 2027", "img": "repfr-01.png", "price": "3,90 €", "btn": "Lien en bio", "small": "16 pages à imprimer · A4 + US Letter"}
+ ]
+}

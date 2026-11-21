@@ -1,0 +1,11 @@
+{
+ "theme": "rep",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {"kind": "hook", "kicker": "Janvier 2027", "big": "Les menus de la semaine en 10 minutes", "img": "repfr-05.png", "size": 84},
+  {"kind": "page", "title": "Menu + courses sur 1 page", "img": "repfr-05.png"},
+  {"kind": "page", "title": "Batch cooking du dimanche", "img": "repfr-11.png"},
+  {"kind": "cta", "title": "Planificateur de repas 2027", "img": "repfr-01.png", "price": "3,90 €", "btn": "Lien en bio", "small": "16 pages à imprimer · A4 + US Letter"}
+ ]
+}

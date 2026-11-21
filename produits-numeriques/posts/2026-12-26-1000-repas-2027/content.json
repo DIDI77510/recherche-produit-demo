@@ -1,0 +1,12 @@
+{
+ "theme": "rep",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {"kind": "hook", "kicker": "Janvier 2027", "big": "« On mange quoi ce soir ? » tous les soirs ?", "sub": "10 minutes le dimanche, et la semaine est réglée.", "img": "repfr-04.png", "size": 76},
+  {"kind": "page", "title": "Le menu de la semaine", "text": "Petit-déj, déjeuner, dîner, goûter", "img": "repfr-04.png"},
+  {"kind": "page", "title": "Les courses par rayon", "text": "On ne tourne plus en rond au magasin", "img": "repfr-06.png"},
+  {"kind": "page", "title": "Le budget courses", "text": "Prévu, dépensé, écart : semaine par semaine", "img": "repfr-10.png"},
+  {"kind": "cta", "title": "Planificateur de repas 2027", "img": "repfr-01.png", "price": "3,90 €", "btn": "Lien en bio", "small": "16 pages à imprimer · A4 + US Letter"}
+ ]
+}

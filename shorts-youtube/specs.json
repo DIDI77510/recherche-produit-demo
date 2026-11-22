@@ -298,5 +298,71 @@
   ],
   "ask": "Vous seriez prêts à essayer ce dimanche ?",
   "status": "publié le 21/11 (cxFz_JMWFGA)"
+ },
+ "15": {
+  "date": "2026-11-22",
+  "title": "La pause de 20 minutes qui évite les mots qu'on regrette #couple #dispute",
+  "hook": "Trop énervé pour parler ? Faites ça",
+  "lead": "Quand la colère monte, on dit des choses qu'on regrette. Fixez une règle à deux : si l'un dit « pause », on s'arrête vingt minutes, puis on reprend calmement.",
+  "clips": [
+   "8557568/8557568-hd_1080_1920_24fps.mp4",
+   "40347585/17239730_1080_1920_60fps.mp4",
+   "9902176/9902176-hd_1080_2048_25fps.mp4",
+   "6189267/6189267-hd_1080_1920_25fps.mp4",
+   "8060570/8060570-hd_1080_2048_25fps.mp4"
+  ],
+  "chunks": [
+   "Quand la colère monte, on dit des choses qu'on regrette.",
+   "Alors fixez une règle à deux, à froid.",
+   "Si l'un dit « pause », on s'arrête vingt minutes.",
+   "Chacun respire, marche, boit un verre d'eau.",
+   "Puis on revient, et on reprend calmement.",
+   "Ce n'est pas fuir : c'est protéger votre couple."
+  ],
+  "ask": "Et vous, vous faites des pauses pendant vos disputes ?"
+ },
+ "16": {
+  "date": "2026-11-24",
+  "title": "Le message de 10 secondes qui illumine sa journée #couple #affection",
+  "hook": "10 secondes pour illuminer sa journée",
+  "lead": "Entre deux messages d'organisation, envoyez aujourd'hui un message juste pour rien : « Je pensais à toi. » Dix secondes, et l'autre sent qu'il compte pour vous.",
+  "clips": [
+   "6781976/6781976-hd_1080_1920_30fps.mp4",
+   "12691875/12691875-hd_1080_1920_60fps.mp4",
+   "5045654/5045654-hd_1080_1920_25fps.mp4",
+   "7719791/7719791-hd_1080_1920_25fps.mp4",
+   "6617107/6617107-hd_1080_1920_25fps.mp4"
+  ],
+  "chunks": [
+   "Dans la journée, on ne s'écrit plus que pour l'organisation.",
+   "« Tu prends le pain ? » « Tu rentres à quelle heure ? »",
+   "Aujourd'hui, envoyez un message juste pour rien.",
+   "« Je pensais à toi. »",
+   "Ça prend dix secondes.",
+   "Et ça dit : tu comptes pour moi."
+  ],
+  "ask": "Et vous, quel message aimeriez-vous recevoir ?"
+ },
+ "17": {
+  "date": "2026-11-26",
+  "title": "Le geste de 30 secondes qui vous rapproche sans un mot #couple #complicite",
+  "hook": "Quand vous êtes-vous vraiment regardés ?",
+  "lead": "On se croise tous les jours sans vraiment se regarder. Ce soir, asseyez-vous face à face et regardez-vous dans les yeux trente secondes, sans parler.",
+  "clips": [
+   "3188950/3188950-hd_1080_1920_25fps.mp4",
+   "13737099/13737099-hd_1080_1920_24fps.mp4",
+   "6575887/6575887-hd_1080_1920_24fps.mp4",
+   "31960022/13617890_1080_1920_30fps.mp4",
+   "39587335/16873504_1080_1920_30fps.mp4"
+  ],
+  "chunks": [
+   "On se croise tous les jours, mais on ne se regarde plus.",
+   "Ce soir, essayez ceci.",
+   "Asseyez-vous face à face.",
+   "Regardez-vous dans les yeux trente secondes, sans parler.",
+   "Au début, on rit un peu, c'est normal.",
+   "Puis quelque chose se passe : on se retrouve."
+  ],
+  "ask": "Vous oseriez tenir trente secondes ?"
  }
 }

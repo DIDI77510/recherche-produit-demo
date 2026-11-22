@@ -1,0 +1,46 @@
+{
+ "theme": "lec",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Lecteurs",
+   "big": "Un livre fini… et 3 mois après, tu ne te souviens plus de rien ?",
+   "sub": "La fiche de lecture en 5 minutes.",
+   "img": "lecfr-22.png",
+   "size": 70
+  },
+  {
+   "kind": "list",
+   "title": "Après chaque livre, note :",
+   "items": [
+    "L'histoire en 3 lignes",
+    "Ce que tu as aimé",
+    "Ta phrase préférée",
+    "Ta note en étoiles"
+   ],
+   "img": "lecfr-22.png"
+  },
+  {
+   "kind": "page",
+   "title": "Tes livres du mois",
+   "text": "12 mois datés 2027",
+   "img": "lecfr-06.png"
+  },
+  {
+   "kind": "page",
+   "title": "Ton bilan de décembre",
+   "text": "Top 5, pages lues, auteurs découverts",
+   "img": "lecfr-27.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Journal de lecture 2027",
+   "img": "lecfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "27 pages à imprimer · A4 + US Letter"
+  }
+ ]
+}

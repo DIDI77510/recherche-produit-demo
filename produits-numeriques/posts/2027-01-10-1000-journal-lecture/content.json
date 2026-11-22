@@ -1,0 +1,41 @@
+{
+ "theme": "lec",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Défi lecture 2027",
+   "big": "Tu as oublié la moitié des livres lus cette année ?",
+   "sub": "En 2027, chaque livre laisse une trace.",
+   "img": "lecfr-04.png",
+   "size": 74
+  },
+  {
+   "kind": "page",
+   "title": "Ton objectif de l'année",
+   "text": "Un rond à colorier par livre terminé",
+   "img": "lecfr-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "Ta bibliothèque à colorier",
+   "text": "100 livres : une couleur par genre",
+   "img": "lecfr-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le défi 52 livres",
+   "text": "Un livre par semaine, 52 idées originales",
+   "img": "lecfr-05.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Journal de lecture 2027",
+   "img": "lecfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "27 pages à imprimer · A4 + US Letter"
+  }
+ ]
+}

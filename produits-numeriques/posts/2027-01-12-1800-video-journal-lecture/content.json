@@ -1,0 +1,32 @@
+{
+ "theme": "lec",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "Combien de livres vas-tu lire cette année ?",
+   "img": "lecfr-03.png",
+   "size": 76
+  },
+  {
+   "kind": "page",
+   "title": "Colorie un livre à chaque fin",
+   "img": "lecfr-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "Note tes pages chaque jour",
+   "img": "lecfr-06.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Journal de lecture 2027",
+   "img": "lecfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "27 pages à imprimer"
+  }
+ ]
+}

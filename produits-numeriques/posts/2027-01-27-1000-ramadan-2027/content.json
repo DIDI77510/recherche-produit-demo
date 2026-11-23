@@ -1,0 +1,41 @@
+{
+ "theme": "ram",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Ramadan 2027",
+   "big": "Le Ramadan arrive dans 12 jours. On s'organise ?",
+   "sub": "Intentions, repas, enfants, Aïd : tout sur papier.",
+   "img": "ramfr-01.png",
+   "size": 74
+  },
+  {
+   "kind": "page",
+   "title": "Tes intentions du mois",
+   "text": "Pour ton cœur, ta famille, ta santé, les autres",
+   "img": "ramfr-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "Ton suivi du jour",
+   "text": "Prières, lecture, eau, suhour, iftar, gratitude",
+   "img": "ramfr-05.png"
+  },
+  {
+   "kind": "page",
+   "title": "Les menus de la semaine",
+   "text": "Iftar et suhour prévus + liste de courses",
+   "img": "ramfr-08.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planner Ramadan 2027 en famille",
+   "img": "ramfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "20 pages à imprimer · A4 + US Letter"
+  }
+ ]
+}

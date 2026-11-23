@@ -1,0 +1,41 @@
+{
+ "theme": "ram",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Déco Ramadan",
+   "big": "Une déco de Ramadan faite maison en 10 minutes",
+   "sub": "Imprime, découpe, accroche.",
+   "img": "ramfr-18.png",
+   "size": 72
+  },
+  {
+   "kind": "page",
+   "title": "La guirlande à découper",
+   "text": "6 fanions : lune, lanterne, étoile",
+   "img": "ramfr-18.png"
+  },
+  {
+   "kind": "page",
+   "title": "4 cartes à offrir",
+   "text": "Ramadan Moubarak et Aïd Moubarak",
+   "img": "ramfr-17.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le compte à rebours de l'Aïd",
+   "text": "Une étoile à colorier chaque soir",
+   "img": "ramfr-15.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planner Ramadan 2027 en famille",
+   "img": "ramfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "20 pages à imprimer · A4 + US Letter"
+  }
+ ]
+}

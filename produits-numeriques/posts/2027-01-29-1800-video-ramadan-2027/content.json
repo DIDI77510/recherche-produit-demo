@@ -1,0 +1,33 @@
+{
+ "theme": "ram",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Ramadan 2027",
+   "big": "Les enfants veulent participer au Ramadan ?",
+   "img": "ramfr-10.png",
+   "size": 76
+  },
+  {
+   "kind": "page",
+   "title": "1 bonne action par jour",
+   "text": "Une lune à colorier à chaque fois",
+   "img": "ramfr-10.png"
+  },
+  {
+   "kind": "page",
+   "title": "30 idées toutes prêtes",
+   "img": "ramfr-11.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planner Ramadan 2027",
+   "img": "ramfr-17.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "Cartes et guirlande à découper incluses"
+  }
+ ]
+}

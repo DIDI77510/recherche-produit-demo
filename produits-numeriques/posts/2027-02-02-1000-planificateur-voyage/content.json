@@ -1,0 +1,41 @@
+{
+ "theme": "voy",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Vacances 2027",
+   "big": "Tu prépares tes vacances dans 10 onglets ouverts ?",
+   "sub": "Tout ton voyage sur papier, au même endroit.",
+   "img": "voyfr-01.png",
+   "size": 74
+  },
+  {
+   "kind": "page",
+   "title": "Quoi faire, et quand",
+   "text": "3 mois, 1 mois, 1 semaine avant et le jour J",
+   "img": "voyfr-05.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le budget sous contrôle",
+   "text": "Prévu, réel, écart + ta cagnotte voyage",
+   "img": "voyfr-06.png"
+  },
+  {
+   "kind": "page",
+   "title": "Ton itinéraire sur 7 jours",
+   "text": "Matin, après-midi, soir",
+   "img": "voyfr-10.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planificateur de voyage",
+   "img": "voyfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "21 pages à imprimer · A4 + US Letter"
+  }
+ ]
+}

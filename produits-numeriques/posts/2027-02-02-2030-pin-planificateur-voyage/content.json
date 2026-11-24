@@ -1,0 +1,15 @@
+{
+ "theme": "voy",
+ "handle": " ",
+ "video": false,
+ "slides": [
+  {
+   "kind": "cta",
+   "title": "Planificateur de voyage à imprimer",
+   "img": "voyfr-01.png",
+   "price": "4,90 €",
+   "btn": "21 pages · A4 + US Letter",
+   "small": "Budget · Itinéraire · Valise · Journal"
+  }
+ ]
+}

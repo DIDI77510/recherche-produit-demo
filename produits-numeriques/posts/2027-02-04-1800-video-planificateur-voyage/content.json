@@ -1,0 +1,33 @@
+{
+ "theme": "voy",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Vacances en famille",
+   "big": "La valise des enfants, sans rien oublier",
+   "img": "voyfr-15.png",
+   "size": 76
+  },
+  {
+   "kind": "page",
+   "title": "Valise adulte",
+   "text": "Papiers, vêtements, toilette, high-tech",
+   "img": "voyfr-14.png"
+  },
+  {
+   "kind": "page",
+   "title": "Avant de partir : la maison",
+   "img": "voyfr-16.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planificateur de voyage",
+   "img": "voyfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "21 pages · journal de voyage inclus"
+  }
+ ]
+}

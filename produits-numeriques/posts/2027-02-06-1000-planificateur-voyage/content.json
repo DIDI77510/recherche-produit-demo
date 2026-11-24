@@ -1,0 +1,40 @@
+{
+ "theme": "voy",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Souvenirs de voyage",
+   "big": "Dans 10 ans, tu te souviendras de quoi ?",
+   "sub": "Une page par jour pour tout garder.",
+   "img": "voyfr-18.png",
+   "size": 76
+  },
+  {
+   "kind": "list",
+   "title": "Ton journal de voyage",
+   "items": [
+    "Le meilleur moment de la journée",
+    "Ce que tu as goûté ou découvert",
+    "Ce qui s'est passé, en quelques lignes",
+    "Tes photos et tickets à coller"
+   ],
+   "img": "voyfr-20.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le bilan au retour",
+   "text": "Ce que tu as préféré, tes bons plans",
+   "img": "voyfr-20.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planificateur de voyage",
+   "img": "voyfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "21 pages à imprimer · A4 + US Letter"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Collier LED lumineux pour chien",
+  "title": "Dernier pipi au jardin : tu le vois ?",
+  "slides": [
+    {"type": "hook", "photo": "collier-rouge-chien-allume.jpg", "pos": "50% center", "kicker": "LE DERNIER PIPI DU SOIR", "lines": ["Il file au fond", "du jardin :"], "accent_line": "tu le vois ?", "sub": "22 h, tu ouvres la porte… et tu cherches où il est passé dans le noir."},
+    {"type": "benefit", "photo": "collier-led-allume-gros-plan.jpg", "kicker": "01 · ALLUMÉ", "title": "Un point de lumière", "text": "Le collier LED s'allume autour de son cou : tu le repères tout de suite."},
+    {"type": "benefit", "photo": "collier-bleu-chien-allume.jpg", "kicker": "02 · TU LE SUIS", "title": "Pas besoin de lampe", "text": "Tu vois où il va, même au fond du jardin ou derrière une haie."},
+    {"type": "benefit", "photo": "collier-rouge-a-plat.jpg", "kicker": "03 · SIMPLE", "title": "Réglable, rouge ou bleu", "text": "Tu ajustes la taille à son cou, tu clipses, tu allumes."},
+    {"type": "price", "photo": "collier-bleu-chien-allume.jpg", "name": "Collier LED lumineux", "detail": "Pour chien · rouge ou bleu", "price": "11,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

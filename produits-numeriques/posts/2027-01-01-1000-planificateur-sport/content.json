@@ -1,0 +1,45 @@
+{
+ "theme": "spo",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "Tes bonnes résolutions sport tiennent combien de temps ?",
+   "sub": "Cette année, tu les écris.",
+   "img": "sportfr-03.png",
+   "size": 72
+  },
+  {
+   "kind": "list",
+   "title": "Comment ça marche",
+   "items": [
+    "Note 3 objectifs et tes mesures de départ",
+    "Chaque dimanche, prépare ta semaine",
+    "Après la séance, remplis ton carnet"
+   ],
+   "img": "sportfr-05.png"
+  },
+  {
+   "kind": "page",
+   "title": "Carnet renforcement",
+   "text": "Séries, charges, ressenti : tu vois tes progrès",
+   "img": "sportfr-07.png"
+  },
+  {
+   "kind": "page",
+   "title": "12 mois datés 2027",
+   "text": "Colorie chaque jour où tu as bougé",
+   "img": "sportfr-13.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planificateur sport 2027",
+   "img": "sportfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "28 pages à imprimer · A4 + US Letter · usage personnel"
+  }
+ ]
+}

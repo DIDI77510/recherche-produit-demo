@@ -1,0 +1,32 @@
+{
+ "theme": "spo",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "2027",
+   "big": "Ne lâche pas en février",
+   "img": "sportfr-01.png",
+   "size": 92
+  },
+  {
+   "kind": "page",
+   "title": "Ta semaine planifiée",
+   "img": "sportfr-05.png"
+  },
+  {
+   "kind": "page",
+   "title": "Défi 30 jours",
+   "img": "sportfr-25.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planificateur sport 2027",
+   "img": "sportfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "28 pages à imprimer · A4 + US Letter · usage personnel"
+  }
+ ]
+}

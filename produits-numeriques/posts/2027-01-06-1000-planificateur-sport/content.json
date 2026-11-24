@@ -1,0 +1,40 @@
+{
+ "theme": "spo",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "DÉFI",
+   "big": "30 jours pour ancrer l'habitude",
+   "sub": "Une case par jour, c'est tout.",
+   "img": "sportfr-25.png",
+   "size": 78
+  },
+  {
+   "kind": "page",
+   "title": "Mes mesures",
+   "text": "Un point tous les 2 mois, sans prise de tête",
+   "img": "sportfr-04.png"
+  },
+  {
+   "kind": "page",
+   "title": "Carnet cardio",
+   "text": "Marche, course, vélo, natation",
+   "img": "sportfr-11.png"
+  },
+  {
+   "kind": "page",
+   "title": "Mes records",
+   "img": "sportfr-26.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Planificateur sport 2027",
+   "img": "sportfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "28 pages à imprimer · A4 + US Letter · usage personnel"
+  }
+ ]
+}

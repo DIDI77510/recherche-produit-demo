@@ -1,0 +1,11 @@
+{
+ "theme": "agd",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {"kind": "hook", "kicker": "Study planner", "big": "Révise comme en Corée : par tranches de 10 minutes", "img": "agdfr-18.png", "size": 76},
+  {"kind": "page", "title": "Ta semaine", "img": "agdfr-17.png"},
+  {"kind": "page", "title": "Tes examens en J-", "img": "agdfr-19.png"},
+  {"kind": "cta", "title": "Agenda 2027 & study planner", "img": "agdfr-01.png", "price": "3,90 €", "btn": "Lien en bio", "small": "21 pages à imprimer · A4 + US Letter"}
+ ]
+}

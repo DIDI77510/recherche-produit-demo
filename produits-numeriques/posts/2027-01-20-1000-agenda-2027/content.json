@@ -1,0 +1,11 @@
+{
+ "theme": "agd",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {"kind": "hook", "kicker": "Organisation", "big": "4 habitudes des étudiants coréens pour mieux réviser", "img": "agdfr-18.png", "size": 76},
+  {"kind": "list", "title": "À tester dès demain", "items": ["Un seul objectif clair par jour", "Des blocs de 10 minutes, coloriés", "Le compte à rebours avant l'examen", "Le total d'heures noté chaque soir"], "img": "agdfr-20.png"},
+  {"kind": "page", "title": "Ton suivi du mois", "text": "10 habitudes sur 31 jours", "img": "agdfr-20.png"},
+  {"kind": "cta", "title": "Agenda 2027 & study planner", "img": "agdfr-01.png", "price": "3,90 €", "btn": "Lien en bio", "small": "21 pages à imprimer · A4 + US Letter"}
+ ]
+}

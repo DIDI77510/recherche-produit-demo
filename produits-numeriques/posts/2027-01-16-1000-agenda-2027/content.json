@@ -1,0 +1,12 @@
+{
+ "theme": "agd",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {"kind": "hook", "kicker": "Partiels & bac blanc", "big": "Tu révises 3 heures… et tu as l'impression de n'avoir rien fait ?", "img": "agdfr-18.png", "size": 70},
+  {"kind": "page", "title": "La journée d'étude à la coréenne", "text": "Tu colories chaque tranche de 10 minutes travaillée", "img": "agdfr-18.png"},
+  {"kind": "page", "title": "Le compte à rebours J-", "text": "Tous tes examens sur une page", "img": "agdfr-19.png"},
+  {"kind": "page", "title": "12 mois datés 2027", "text": "Objectifs du mois + à ne pas oublier", "img": "agdfr-05.png"},
+  {"kind": "cta", "title": "Agenda 2027 & study planner", "img": "agdfr-01.png", "price": "3,90 €", "btn": "Lien en bio", "small": "21 pages à imprimer · A4 + US Letter"}
+ ]
+}

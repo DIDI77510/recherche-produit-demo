@@ -1,0 +1,51 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Devant chez le voisin… et pas de sac ?",
+  "slides": [
+    {
+      "type": "hook",
+      "photo": "laisse-promenade-rue.jpg",
+      "fit": "cover",
+      "pos": "50% center",
+      "kicker": "LE MOMENT GÊNANT",
+      "lines": [
+        "Sa crotte devant",
+        "chez le voisin…"
+      ],
+      "accent_line": "et pas de sac ?",
+      "sub": "Tu fouilles tes poches. Le voisin regarde.",
+      "size": 118
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-distributeur.jpg",
+      "kicker": "01 · TOUJOURS LÀ",
+      "title": "Les sacs sont sur la laisse",
+      "text": "Le distributeur est accroché à la poignée : tu ramasses tout de suite."
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-poignee-mousse.jpg",
+      "kicker": "02 · CONFORT",
+      "title": "Poignée en mousse",
+      "text": "Une prise douce dans la main, même pour les longues balades."
+    },
+    {
+      "type": "benefit",
+      "photo": "laisse-chien-terrasse.jpg",
+      "kicker": "03 · 5 MÈTRES",
+      "title": "De la marge pour lui",
+      "text": "Il peut renifler un peu plus loin, et la laisse est réfléchissante le soir."
+    },
+    {
+      "type": "price",
+      "photo": "laisse-boite.jpg",
+      "name": "Laisse réfléchissante 5 m",
+      "detail": "Avec distributeur de sacs",
+      "price": "14,99 €",
+      "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"
+    }
+  ]
+}

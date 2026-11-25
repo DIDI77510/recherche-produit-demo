@@ -1,0 +1,41 @@
+{
+ "theme": "agn",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Sur ta tablette",
+   "big": "Ton agenda papier est encore resté à la maison ?",
+   "sub": "Ton agenda 2027 sur ta tablette, toujours avec toi.",
+   "img": "agnfr-03.png",
+   "size": 72
+  },
+  {
+   "kind": "page",
+   "title": "Touche un onglet, tu y es",
+   "text": "Année, objectifs, 12 mois, notes",
+   "img": "agnfr-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "Le mois en un coup d'œil",
+   "text": "Touche un jour : tu arrives sur sa semaine",
+   "img": "agnfr-06.png"
+  },
+  {
+   "kind": "page",
+   "title": "53 semaines à remplir",
+   "text": "Du lundi au dimanche + tes priorités",
+   "img": "agnfr-18.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Agenda numérique 2027",
+   "img": "agnfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "80 pages à liens cliquables · A4 + US Letter"
+  }
+ ]
+}

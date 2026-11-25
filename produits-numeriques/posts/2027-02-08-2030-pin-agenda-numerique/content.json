@@ -1,0 +1,15 @@
+{
+ "theme": "agn",
+ "handle": " ",
+ "video": false,
+ "slides": [
+  {
+   "kind": "cta",
+   "title": "Agenda numérique 2027 à liens cliquables",
+   "img": "agnfr-03.png",
+   "price": "4,90 €",
+   "btn": "80 pages · A4 + US Letter",
+   "small": "12 mois · 53 semaines · objectifs · notes"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "theme": "agn",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Février",
+   "big": "Il n'est pas trop tard pour bien commencer 2027",
+   "sub": "Ton agenda démarre quand tu veux.",
+   "img": "agnfr-04.png",
+   "size": 72
+  },
+  {
+   "kind": "list",
+   "title": "Comment je m'en sers",
+   "items": [
+    "Le dimanche : 3 priorités pour la semaine",
+    "Chaque soir : je coche ce qui est fait",
+    "Fin du mois : je relis mes notes",
+    "Une idée ? Page de notes, en 1 clic"
+   ],
+   "img": "agnfr-71.png"
+  },
+  {
+   "kind": "page",
+   "title": "Mes objectifs 2027",
+   "text": "6 domaines + ton mot de l'année",
+   "img": "agnfr-04.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Agenda numérique 2027",
+   "img": "agnfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "80 pages à liens cliquables · A4 + US Letter"
+  }
+ ]
+}

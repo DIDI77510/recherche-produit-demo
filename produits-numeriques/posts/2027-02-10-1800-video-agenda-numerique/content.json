@@ -1,0 +1,32 @@
+{
+ "theme": "agn",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Astuce tablette",
+   "big": "Un agenda où tout se clique",
+   "img": "agnfr-06.png",
+   "size": 78
+  },
+  {
+   "kind": "page",
+   "title": "Un jour → sa semaine",
+   "img": "agnfr-18.png"
+  },
+  {
+   "kind": "page",
+   "title": "Tes objectifs 2027",
+   "img": "agnfr-04.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Agenda numérique 2027",
+   "img": "agnfr-01.png",
+   "price": "4,90 €",
+   "btn": "Lien en bio",
+   "small": "80 pages · GoodNotes, Notability, Xodo"
+  }
+ ]
+}

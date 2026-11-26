@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Laisse réfléchissante 5 m avec distributeur de sacs",
+  "title": "Des sacs dans chaque manteau ?",
+  "slides": [
+    {"type": "hook", "photo": "laisse-chien-terrasse.jpg", "pos": "50% center", "kicker": "LE CHAOS DES POCHES", "lines": ["Des sacs", "dans chaque"], "accent_line": "manteau ?", "sub": "Et le jour où tu en as besoin, c'est le mauvais manteau.", "size": 140},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "01 · UN SEUL ENDROIT", "title": "Les sacs sur la laisse", "text": "Le distributeur reste accroché : plus besoin de fouiller tes poches."},
+    {"type": "benefit", "photo": "laisse-poignee-mousse.jpg", "kicker": "02 · MAINS LIBRES", "title": "Poignée en mousse", "text": "La laisse dans une main, l'autre reste libre pour ramasser."},
+    {"type": "benefit", "photo": "laisse-promenade-rue.jpg", "fit": "cover", "kicker": "03 · LE SOIR AUSSI", "title": "5 m, réfléchissante", "text": "De la longueur pour lui, et elle renvoie la lumière des phares."},
+    {"type": "price", "photo": "laisse-boite.jpg", "name": "Laisse réfléchissante 5 m", "detail": "Avec distributeur de sacs", "price": "14,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

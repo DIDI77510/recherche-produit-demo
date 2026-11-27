@@ -1,0 +1,40 @@
+{
+ "theme": "bb",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Cadeau de naissance",
+   "big": "Le cadeau qui sert toute l'année",
+   "sub": "À imprimer en 2 minutes, même la veille.",
+   "img": "bbfr-01.png",
+   "size": 76
+  },
+  {
+   "kind": "list",
+   "title": "Comment ça marche",
+   "items": [
+    "J'imprime sur papier épais",
+    "Je découpe les cartes",
+    "J'écris la date sous la carte",
+    "Je pose la carte près de bébé : clic !"
+   ],
+   "img": "bbfr-18.png"
+  },
+  {
+   "kind": "page",
+   "title": "Des cartes vierges",
+   "text": "pour tes propres étapes",
+   "img": "bbfr-18.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Cartes étapes de bébé",
+   "img": "bbfr-01.png",
+   "price": "5,90 €",
+   "btn": "Lien en bio",
+   "small": "80 cartes à imprimer · A4 + US Letter"
+  }
+ ]
+}

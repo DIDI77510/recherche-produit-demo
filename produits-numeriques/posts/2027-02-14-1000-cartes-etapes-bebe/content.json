@@ -1,0 +1,41 @@
+{
+ "theme": "bb",
+ "handle": "lien en bio",
+ "video": false,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Bébé grandit si vite",
+   "big": "Tu te souviendras de son 1er sourire ?",
+   "sub": "Une photo par étape, la date écrite dessous.",
+   "img": "bbfr-03.png",
+   "size": 76
+  },
+  {
+   "kind": "page",
+   "title": "1 à 12 mois",
+   "text": "+ 1, 2 et 3 semaines",
+   "img": "bbfr-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "25 premières fois",
+   "text": "Premier bain, première dent, premiers pas…",
+   "img": "bbfr-07.png"
+  },
+  {
+   "kind": "page",
+   "title": "Carrées ou rondes",
+   "text": "80 cartes au total",
+   "img": "bbfr-11.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Cartes étapes de bébé",
+   "img": "bbfr-01.png",
+   "price": "5,90 €",
+   "btn": "Lien en bio",
+   "small": "80 cartes à imprimer · A4 + US Letter"
+  }
+ ]
+}

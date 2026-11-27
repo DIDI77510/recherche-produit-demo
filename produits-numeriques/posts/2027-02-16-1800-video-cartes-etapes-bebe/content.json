@@ -1,0 +1,32 @@
+{
+ "theme": "bb",
+ "handle": "lien en bio",
+ "video": true,
+ "slides": [
+  {
+   "kind": "hook",
+   "kicker": "Idée photo",
+   "big": "Une carte, une photo, un souvenir",
+   "img": "bbfr-11.png",
+   "size": 78
+  },
+  {
+   "kind": "page",
+   "title": "Chaque mois",
+   "img": "bbfr-03.png"
+  },
+  {
+   "kind": "page",
+   "title": "Chaque première fois",
+   "img": "bbfr-07.png"
+  },
+  {
+   "kind": "cta",
+   "title": "Cartes étapes de bébé",
+   "img": "bbfr-01.png",
+   "price": "5,90 €",
+   "btn": "Lien en bio",
+   "small": "80 cartes · carrées + rondes"
+  }
+ ]
+}

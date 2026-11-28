@@ -367,5 +367,73 @@
   ],
   "ask": "Vous oseriez tenir trente secondes ?",
   "status": "publié le 26/11 (F6jJuo5DSUE)"
+ },
+ "18": {
+  "date": "2026-11-28",
+  "title": "Le mot qui fait déraper toutes vos disputes #couple #dispute",
+  "hook": "Ce mot fait exploser vos disputes",
+  "lead": "« Tu fais toujours ça », « Tu ne m'écoutes jamais »... Ces deux mots transforment un petit reproche en grosse dispute. Remplacez-les par un fait précis : « Hier soir, tu as… »",
+  "clips": [
+   "8557568/8557568-hd_1080_1920_24fps.mp4",
+   "40347585/17239730_1080_1920_60fps.mp4",
+   "30428233/13040327_1080_1920_30fps.mp4",
+   "6189267/6189267-hd_1080_1920_25fps.mp4",
+   "8060570/8060570-hd_1080_2048_25fps.mp4"
+  ],
+  "chunks": [
+   "« Tu fais toujours ça ! » Et la dispute explose.",
+   "Toujours, jamais : ces mots-là font déraper.",
+   "Votre partenaire n'entend plus le problème.",
+   "Il entend seulement qu'il est nul.",
+   "Alors il se défend, et le ton monte.",
+   "Parlez plutôt d'un fait précis : « Hier soir, tu as… »",
+   "Un fait, on peut en parler. Un « toujours », non."
+  ],
+  "ask": "Et vous, vous dites souvent « toujours » ?"
+ },
+ "19": {
+  "date": "2026-11-30",
+  "title": "Les 2 phrases qui réparent une dispute #couple #dispute",
+  "hook": "Après une dispute, dites ces 2 phrases",
+  "lead": "Après une dispute, on fait souvent comme si de rien n'était, et la rancune reste. Une fois calmés, dites chacun deux phrases : « Je regrette d'avoir… » et « J'ai compris que tu… »",
+  "clips": [
+   "40347585/17239730_1080_1920_60fps.mp4",
+   "9902176/9902176-hd_1080_2048_25fps.mp4",
+   "6380998/6380998-hd_1080_1920_24fps.mp4",
+   "30428233/13040327_1080_1920_30fps.mp4",
+   "8060567/8060567-hd_1080_2048_25fps.mp4"
+  ],
+  "chunks": [
+   "Après une dispute, on fait comme si de rien n'était.",
+   "Mais la rancune, elle, reste là.",
+   "Une fois calmés, dites chacun deux phrases.",
+   "« Je regrette d'avoir… »",
+   "Et : « J'ai compris que tu… »",
+   "Pas besoin de savoir qui avait raison.",
+   "Ces deux phrases referment la blessure."
+  ],
+  "ask": "Et vous, comment vous vous réconciliez ?"
+ },
+ "20": {
+  "date": "2026-12-02",
+  "title": "La question qui évite de se sentir incompris #couple #communication",
+  "hook": "Des conseils au lieu d'être écouté ?",
+  "lead": "Vous racontez votre journée difficile, et votre partenaire vous donne des solutions. Vous vous sentez incompris. Une seule question change tout : « Tu veux que je t'écoute, ou que je t'aide ? »",
+  "clips": [
+   "6781976/6781976-hd_1080_1920_30fps.mp4",
+   "40120426/17130031_1080_1920_30fps.mp4",
+   "6534946/6534946-hd_1080_1920_24fps.mp4",
+   "6693870/6693870-hd_1080_2048_30fps.mp4",
+   "34841453/14769316_1080_1920_30fps.mp4"
+  ],
+  "chunks": [
+   "Vous racontez votre journée difficile.",
+   "Et votre partenaire vous donne des solutions.",
+   "Résultat : vous vous sentez incompris, et ça s'énerve.",
+   "Une seule question évite ça.",
+   "« Tu veux que je t'écoute, ou que je t'aide ? »",
+   "Souvent, on veut juste être écouté."
+  ],
+  "ask": "Et vous, vous voulez plutôt être écouté ou aidé ?"
  }
 }

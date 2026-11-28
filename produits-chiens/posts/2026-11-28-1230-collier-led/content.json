@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Collier LED lumineux pour chien",
+  "title": "Balade en forêt : il disparaît ?",
+  "slides": [
+    {"type": "hook", "photo": "collier-rouge-chien-allume.jpg", "pos": "50% center", "kicker": "BALADE DU WEEK-END EN FORÊT", "lines": ["La nuit tombe,", "il file entre"], "accent_line": "les arbres…", "sub": "Et tu ne vois plus où il est passé.", "size": 112},
+    {"type": "benefit", "photo": "collier-bleu-chien-allume.jpg", "kicker": "01 · TU LE REPÈRES", "title": "Il s'allume", "text": "Un point de lumière autour de son cou : tu le suis des yeux entre les arbres."},
+    {"type": "benefit", "photo": "collier-led-allume-gros-plan.jpg", "kicker": "02 · BIEN VISIBLE", "title": "Rouge ou bleu", "text": "Une couleur vive qui se voit dans le noir du sous-bois."},
+    {"type": "benefit", "photo": "collier-bleu-pile.jpg", "kicker": "03 · SIMPLE", "title": "1 pile, c'est tout", "text": "Taille réglable, boucle clipsable : tu l'allumes en partant."},
+    {"type": "price", "photo": "collier-rouge-a-plat.jpg", "name": "Collier LED lumineux", "detail": "Pour chien · rouge ou bleu", "price": "11,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}

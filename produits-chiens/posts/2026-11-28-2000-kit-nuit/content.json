@@ -1,0 +1,13 @@
+{
+  "handle": "@classpro36",
+  "accent": "#FFD23F",
+  "product": "Kit Promenade de Nuit (collier LED + laisse réfléchissante 5 m)",
+  "title": "Décembre : les nuits les plus longues",
+  "slides": [
+    {"type": "hook", "photo": "collier-bleu-chien-nuit.jpg", "pos": "50% center", "kicker": "DÉCEMBRE ARRIVE", "lines": ["Les nuits", "les plus longues"], "accent_line": "de l'année", "sub": "Matin et soir, presque toutes tes balades se font dans le noir.", "size": 116},
+    {"type": "benefit", "photo": "collier-bleu-chien-allume.jpg", "kicker": "01 · LUI, ON LE VOIT", "title": "Collier LED", "text": "Il s'allume autour de son cou, matin comme soir."},
+    {"type": "benefit", "photo": "laisse-promenade-rue.jpg", "fit": "cover", "kicker": "02 · LES PHARES LA VOIENT", "title": "Laisse réfléchissante 5 m", "text": "Elle renvoie la lumière des voitures au bord de la route."},
+    {"type": "benefit", "photo": "laisse-distributeur.jpg", "kicker": "03 · RIEN À OUBLIER", "title": "Les sacs sur la laisse", "text": "Le distributeur de sacs à crottes est fixé à la poignée."},
+    {"type": "price", "photo": "kit-rouge.jpg", "name": "Kit Promenade de Nuit", "detail": "Collier LED + laisse 5 m · rouge ou bleu", "price": "21,99 €", "cta": "Dispo dans ma boutique TikTok (onglet boutique du profil)"}
+  ]
+}
